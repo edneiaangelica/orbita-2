@@ -1,0 +1,9 @@
+# Prompts de imagens — vd-explica-m2-d2
+
+Gerador integrado image_gen; referências: personagens e mãos do Desafio 1.
+
+## Personagens
+Create a new three-panel character asset sheet matching exactly the polished children's educational illustration style and pale blue background of the reference. Three equal-width panels across one landscape image, no borders or text. LEFT: curious girl age seven with brown pigtails, blue shirt with yellow collar, looking thoughtfully down at her two hands, waist up. MIDDLE: same girl joyfully celebrating, waist up. RIGHT: the SAME welcoming brown-haired female teacher with purple glasses, purple cardigan and yellow shirt from reference, smiling and giving one clear thumbs-up, waist up. Each character entirely within its third with margins. Anatomically correct hands five digits each, no extra digits, lively faces, clean outlines, soft shading, blue purple yellow palette, minimal empty background. No boy.
+
+## Mãos complementares
+Create an additional hand pose asset sheet matching the reference hand illustration style, skin tone and pale solid blue background. Two equal-width cells in a landscape image. LEFT: palm facing viewer, exactly ONE finger extended straight upward (INDEX finger); middle, ring, little fingers bent down clearly into palm, thumb folded across them. RIGHT: same hand completely closed fist, palm side toward viewer, all four fingers curled down, thumb folded across, ZERO extended fingers. Each hand anatomically has exactly five digits. Wrist and palm same scale, both wrists aligned on bottom, ample space above closed fist corresponding to missing extended fingers. Precise anatomical educational illustration, separated clearly identifiable folded digits, clean detailed shading, no text, numbers or borders. Both hands fully inside their cell, no cropping, no extra fingers.

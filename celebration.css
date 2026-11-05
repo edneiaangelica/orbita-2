@@ -1,0 +1,90 @@
+/* The celebration sits in one centered card, within the available viewport. */
+body[data-screen=celebration]{height:100dvh;min-height:0;display:flex;flex-direction:column;background:radial-gradient(ellipse at 18% 20%,#e6e8ff,transparent 55%),radial-gradient(ellipse at 88% 85%,#e4f7ff,transparent 55%),#f3f1fa}
+body[data-screen=celebration] .mission-top{flex-shrink:0;width:100%;margin:0}
+body[data-screen=celebration] .mission-banner{display:none}
+body[data-screen=celebration] .mission-shell{flex:1;min-height:0;width:100%;max-width:none;margin:0;padding:18px 24px}
+.celebration-view{position:relative;isolation:isolate;display:grid;place-items:center;height:100%;min-height:0}
+.celebration-view[hidden]{display:none}
+.celebration-card{position:relative;z-index:1;display:grid;grid-template-columns:.95fr 1.05fr;width:min(860px,100%);border:1px solid #ffffff;border-radius:30px;background:#fff;box-shadow:0 24px 70px #39305e18,0 3px 10px #39305e08;overflow:hidden;text-align:center}
+.celebration-message{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:32px 24px 20px;background:radial-gradient(circle at 50% 74%,#fff 0,#fff8 28%,transparent 52%),linear-gradient(145deg,#f3edff,#eef6ff);border-right:1px solid #ece8f5}
+.celebration-badge{display:inline-flex;align-items:center;gap:6px;border:1px solid #dcd0f4;border-radius:30px;padding:7px 12px;font-size:13.5px;font-weight:800;letter-spacing:1.5px;color:#7651a6;background:#fff9}
+.celebration-badge:before{content:'✦';font-size:19.5px;color:#9a59c0}
+.celebration-card h2{font-size:clamp(39px,4.5vw,54px);line-height:1.16;letter-spacing:-1px;color:#352357;margin:18px 0 12px}
+.celebration-copy p{font-size:19.5px;line-height:1.5;color:#79718b;max-width:290px;margin:0 auto}
+.teleco-clapping{display:block;object-fit:contain;width:210px;height:195px;margin:16px auto 0;filter:drop-shadow(0 12px 12px #6060a11a)}
+.celebration-summary{align-self:center;min-width:0;padding:32px}
+.celebration-summary:before{content:'VOCÊ CONQUISTOU';display:block;font-size:15px;letter-spacing:2px;font-weight:800;color:#847593;margin-bottom:18px}
+.earned-rewards{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:0 0 20px}
+.earned-rewards>div{display:grid;grid-template-columns:1fr;justify-items:center;padding:16px 8px 14px;border:1px solid #f2dfb0;border-radius:18px;background:linear-gradient(145deg,#fffdf4,#fff6df)}
+.earned-rewards>div+div{border-color:#e5daf5;background:linear-gradient(145deg,#fcfaff,#f2eafa)}
+.earned-rewards img{width:42px;height:42px;object-fit:contain;margin-bottom:7px;filter:drop-shadow(0 3px 3px #ad852326)}
+.earned-rewards strong{color:#513a6b;font-size:48px;line-height:1.1;letter-spacing:-1px;font-weight:800}
+.earned-rewards span{font-size:16.5px;color:#8b7799;margin-top:4px}
+.reward-lines{list-style:none;padding:0;margin:0;text-align:left;font-size:16.5px}
+.reward-lines li{display:flex;justify-content:space-between;gap:8px;align-items:center;padding:9px 0;border-bottom:1px solid #f0edf5;color:#8a8196}
+.reward-lines strong{color:#5b4b70;text-align:right;font-size:16.5px}
+.celebration-summary #reward-status{font-size:15px;color:#8c8398;margin:14px 0}
+.celebration-summary .primary{display:block;width:100%;min-height:48px;padding:13px 10px;margin:0;border:1px solid #88286f;border-radius:13px;background:linear-gradient(110deg,#a0006d,#862d91);color:#fff;box-shadow:0 4px 0 #642065,0 8px 18px #a0006d20;font-size:19.5px;font-weight:800;cursor:pointer;transition:transform .15s,box-shadow .15s}
+.celebration-summary .primary:after{content:' →';margin-left:6px}
+.celebration-summary .primary:hover{transform:translateY(-2px);box-shadow:0 6px 0 #642065,0 12px 20px #a0006d25}
+.celebration-summary .primary:active{transform:translateY(2px);box-shadow:0 2px 0 #642065}
+.celebration-summary button:disabled{opacity:.55;cursor:wait}
+.confetti{position:absolute;inset:0;pointer-events:none;overflow:hidden;z-index:0;border-radius:24px}
+.confetti i{position:absolute;left:var(--x);top:-30px;width:7px;height:12px;background:var(--color);border-radius:2px;opacity:.65;animation:confetti-fall var(--duration) var(--delay) linear 4;transform:rotate(var(--angle))}
+.confetti i:nth-child(3n){width:8px;height:6px;border-radius:50%}
+@keyframes confetti-fall{from{translate:0 -30px;rotate:0deg}to{translate:35px 1000px;rotate:540deg}}
+.challenge-tab:disabled{opacity:.55;cursor:not-allowed}
+@media(max-width:600px) and (min-height:521px){
+ body[data-screen=celebration] .mission-shell{padding:14px}
+ .celebration-card{max-width:390px;grid-template-columns:1fr;border-radius:24px}
+ .celebration-message{display:grid;grid-template-columns:1fr 92px;gap:4px;padding:22px 18px;text-align:left;border-right:0;border-bottom:1px solid #ece8f5}
+ .celebration-badge{font-size:10.5px;letter-spacing:.8px;padding:5px 8px;gap:4px}
+ .celebration-card h2{font-size:37.5px;margin:12px 0 8px;letter-spacing:-.6px}
+ .celebration-copy p{font-size:16.5px;line-height:1.4}
+ .teleco-clapping{width:100px;height:130px;margin:0}
+ .celebration-summary{padding:20px}
+ .celebration-summary:before{margin-bottom:12px;font-size:12px}
+ .earned-rewards{gap:10px;margin-bottom:12px}
+ .earned-rewards>div{grid-template-columns:34px 1fr;text-align:left;padding:12px;gap:0 8px;justify-items:start;align-items:center;border-radius:14px}
+ .earned-rewards img{grid-row:span 2;width:34px;height:34px;margin:0}
+ .earned-rewards strong{font-size:40.5px}.earned-rewards span{font-size:13.5px;margin-top:2px}
+ .reward-lines,.reward-lines strong{font-size:15px}.reward-lines li{padding:7px 0}
+ .celebration-summary #reward-status{margin:12px 0;font-size:13.5px}
+ .celebration-summary .primary{font-size:18px;min-height:44px;padding:10px 6px}
+}
+@media(max-width:600px) and (min-height:521px) and (max-height:650px){
+ body[data-screen=celebration] .mission-shell{padding:8px 10px}
+ .celebration-message{padding:12px;grid-template-columns:1fr 72px}
+ .celebration-card h2{font-size:31.5px;margin:8px 0 6px}
+ .celebration-copy p{font-size:15px}
+ .teleco-clapping{width:76px;height:100px}
+ .celebration-summary{padding:12px}
+ .celebration-summary:before{margin-bottom:8px}
+ .earned-rewards{margin-bottom:6px}.earned-rewards>div{padding:8px;gap:0 5px;grid-template-columns:28px 1fr}.earned-rewards img{width:28px;height:28px}.earned-rewards strong{font-size:36px}
+ .reward-lines li{padding:5px 0}.celebration-summary #reward-status{margin:8px 0}
+}
+@media(max-height:650px) and (min-width:601px), (max-height:520px){
+ body[data-screen=celebration] .mission-shell{padding:8px 16px}
+ .celebration-card{max-width:760px;border-radius:22px}
+ .celebration-message{padding:16px}
+ .celebration-badge{font-size:12px;padding:5px 8px}
+ .celebration-card h2{font-size:39px;margin:10px 0 8px}
+ .celebration-copy p{font-size:16.5px}
+ .teleco-clapping{height:100px;width:120px;margin:8px auto 0}
+ .celebration-summary{padding:16px 20px}
+ .celebration-summary:before{font-size:12px;margin-bottom:8px}
+ .earned-rewards{margin-bottom:8px;gap:8px}.earned-rewards>div{grid-template-columns:30px 1fr;text-align:left;justify-items:start;align-items:center;gap:0 6px;padding:10px}.earned-rewards img{grid-row:span 2;width:30px;height:30px;margin:0}.earned-rewards strong{font-size:36px}.earned-rewards span{font-size:13.5px;margin-top:2px}
+ .reward-lines,.reward-lines strong{font-size:15px}.reward-lines li{padding:5px 0}
+ .celebration-summary #reward-status{font-size:13.5px;margin:8px 0}
+ .celebration-summary .primary{min-height:40px;font-size:16.5px;padding:10px 5px}
+}
+@media(prefers-reduced-motion:reduce){.confetti i{animation:none;top:var(--x);opacity:.4}.celebration-summary .primary{transition:none}}
+
+/* Keep the enlarged type readable without clipping the card. */
+.celebration-card{width:min(1120px,100%)}
+.reward-lines li{flex-wrap:wrap}
+.reward-lines strong{margin-left:auto}
+.celebration-summary .primary{white-space:normal;line-height:1.3}
+body[data-screen=celebration] .mission-shell{overflow:visible}
+.celebration-view{height:auto;min-height:100%;padding-block:8px}
+@media(max-width:600px){.celebration-message{grid-template-columns:1fr}.teleco-clapping{margin:8px auto 0}.earned-rewards>div{grid-template-columns:1fr;justify-items:center;text-align:center}.earned-rewards img{grid-row:auto}.celebration-card{overflow:visible}.celebration-message{border-radius:24px 24px 0 0}.celebration-view{padding-bottom:calc(var(--mobile-nav-height,56px) + 16px)}}

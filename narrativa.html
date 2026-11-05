@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#edf6ff">
+  <title>Órbita • A missão</title>
+  <link rel="icon" href="assets/imagens/icones-e-logos/favicon.png">
+  <link rel="stylesheet" href="narrativa-pagina.css">
+  <script src="narrativa-pagina.js" defer></script>
+<link rel="stylesheet" href="navigation.css"><script src="navigation.js" defer></script></head>
+<body><button class="narrative-fullscreen" id="fullscreen" type="button" aria-label="Entrar em tela cheia" title="Entrar em tela cheia"></button>
+  <main aria-label="Conheça a missão Órbita">
+    <video id="narrative-video" controls playsinline preload="metadata" poster="assets/videos/narrativa/poster.jpg" aria-label="A história da missão Órbita, narrada em português">
+      <source src="assets/videos/narrativa/orbita-a-missao.mp4" type="video/mp4">
+      <track kind="captions" src="assets/videos/narrativa/narrativa.vtt" srclang="pt-BR" label="Português brasileiro">
+      Seu navegador não suporta vídeo. <a href="assets/videos/narrativa/orbita-a-missao.mp4">Abrir o vídeo</a>.
+    </video>
+    <p id="video-error" role="status" hidden>Não foi possível carregar o vídeo. <a href="assets/videos/narrativa/orbita-a-missao.mp4">Tentar abrir o vídeo</a>.</p>
+    <a class="start" href="inicio.html">Começar a aventura <span aria-hidden="true">→</span></a>
+  </main>
+</body>
+</html>
+

@@ -1,0 +1,70 @@
+{
+  "voice": "pt-BR-FranciscaNeural",
+  "duration": 58.46666666666667,
+  "scenes": [
+    {
+      "scene": 1,
+      "text": "O mundo, tal qual o conhecemos hoje, está com os dias contados.",
+      "start": 0,
+      "end": 6.266666666666667,
+      "speechStart": 0.4,
+      "speechEnd": 5.54
+    },
+    {
+      "scene": 2,
+      "text": "Um grande meteoro se aproxima da Terra e vai destruir toda a vida no planeta.",
+      "start": 6.266666666666667,
+      "end": 13.2,
+      "speechStart": 6.666666666666667,
+      "speechEnd": 12.476666666666667
+    },
+    {
+      "scene": 3,
+      "text": "Mas o comandante da missão Órbita e seu robô Teleco convidaram vocês para viajar com eles pelo espaço, em busca de um novo planeta.",
+      "start": 13.2,
+      "end": 23.666666666666664,
+      "speechStart": 13.6,
+      "speechEnd": 22.939999999999998
+    },
+    {
+      "scene": 4,
+      "text": "O objetivo é encontrar um mundo que possa receber a população da Terra,",
+      "start": 23.666666666666664,
+      "end": 29.93333333333333,
+      "speechStart": 24.066666666666663,
+      "speechEnd": 29.226666666666663
+    },
+    {
+      "scene": 5,
+      "text": "Para isso, é claro, você precisa aprender matemática.",
+      "start": 29.93333333333333,
+      "end": 35.766666666666666,
+      "speechStart": 30.33333333333333,
+      "speechEnd": 35.06333333333333
+    },
+    {
+      "scene": 6,
+      "text": "Assista às videoaulas, enfrente os desafios, cumpra as missões, interaja nos fóruns,",
+      "start": 35.766666666666666,
+      "end": 43.2,
+      "speechStart": 36.166666666666664,
+      "speechEnd": 42.47666666666667
+    },
+    {
+      "scene": 7,
+      "text": "ganhe estrelas e moedas que servirão para visitar novos mundos e escolher o planeta que melhor pode servir de nova casa para os humanos.",
+      "start": 43.2,
+      "end": 53.733333333333334,
+      "speechStart": 43.6,
+      "speechEnd": 53.010000000000005
+    },
+    {
+      "scene": 8,
+      "text": "O futuro da humanidade está em suas mãos.",
+      "start": 53.733333333333334,
+      "end": 58.46666666666667,
+      "speechStart": 54.13333333333333,
+      "speechEnd": 57.75333333333333
+    }
+  ]
+}

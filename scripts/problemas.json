@@ -1,0 +1,12 @@
+[
+ ["abertura",1,"Você sabe como descobrir se deve usar adição ou subtração para resolver um probleminha de matemática? Vamos aprender!"],
+ ["somar",2,"Usamos a adição quando precisamos juntar quantidades ou acrescentar alguma coisa."],
+ ["ana",3,"Ana tinha oito figurinhas e ganhou mais cinco de sua amiga. Quantas figurinhas ela tem agora?"],
+ ["adicao",4,"A quantidade de figurinhas de Ana aumentou. Para descobrir o total, juntamos oito com cinco: oito mais cinco é igual a treze!"],
+ ["subtrair",5,"Usamos a subtração para retirar uma quantidade, descobrir quanto sobrou ou encontrar a diferença entre duas quantidades."],
+ ["pedro",6,"Pedro tinha quinze carrinhos e deu quatro para seu irmão. Com quantos carrinhos ele ficou?"],
+ ["subtracao",7,"A quantidade de carrinhos de Pedro diminuiu. Retiramos quatro de quinze: quinze menos quatro é igual a onze!"],
+ ["lembrar",8,"Para juntar ou acrescentar quantidades, usamos a adição. Para retirar ou descobrir a diferença entre quantidades, usamos a subtração."],
+ ["dica",9,"Mas atenção: não escolha a operação apenas por uma palavra! Leia com cuidado e imagine a situação. Pense no que você sabe e no que precisa descobrir."],
+ ["fim",10,"Agora você já sabe como começar a resolver os probleminhas! Leia, pense e escolha a operação. Até a próxima aula!"]
+]

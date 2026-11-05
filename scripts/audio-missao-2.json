@@ -1,0 +1,542 @@
+[
+  {
+    "id": "d1-q1-prompt",
+    "text": "Quanto é 7  mais  5?"
+  },
+  {
+    "id": "d1-q1-success",
+    "text": "MUITO BEM! 7  mais  5 é igual a 12."
+  },
+  {
+    "id": "d1-q1-error",
+    "text": "TENTE NOVAMENTE! Guarde o 7 na memória e conte mais 5: 8, 9, 10, 11, 12."
+  },
+  {
+    "id": "d1-q2-prompt",
+    "text": "Quanto é 9  mais  4?"
+  },
+  {
+    "id": "d1-q2-success",
+    "text": "PARABÉNS! Você descobriu que 9  mais  4 é igual a 13."
+  },
+  {
+    "id": "d1-q2-error",
+    "text": "QUASE LÁ! Primeiro, some 1 ao 9 para chegar ao 10. Depois, acrescente mais 3."
+  },
+  {
+    "id": "d1-q3-prompt",
+    "text": "Quanto é 8  mais  6?"
+  },
+  {
+    "id": "d1-q3-success",
+    "text": "ISSO MESMO! A soma de 8 e 6 é 14."
+  },
+  {
+    "id": "d1-q3-error",
+    "text": "VAMOS TENTAR DE NOVO! Comece no 8 e avance 6 números na sequência numérica."
+  },
+  {
+    "id": "d1-q4-prompt",
+    "text": "Quanto é 10  mais  7?"
+  },
+  {
+    "id": "d1-q4-success",
+    "text": "EXCELENTE! 10  mais  7 é igual a 17."
+  },
+  {
+    "id": "d1-q4-error",
+    "text": "PENSE MAIS UM POUCO! Ao acrescentar 7 ao 10, formamos uma dezena e 7 unidades."
+  },
+  {
+    "id": "d1-q5-prompt",
+    "text": "Quanto é 6  mais  6?"
+  },
+  {
+    "id": "d1-q5-success",
+    "text": "ÓTIMO TRABALHO! O dobro de 6 é 12."
+  },
+  {
+    "id": "d1-q5-error",
+    "text": "TENTE OUTRA VEZ! Você pode contar 6 elementos e acrescentar outros 6."
+  },
+  {
+    "id": "d1-q6-prompt",
+    "text": "Quanto é 13  mais  4?"
+  },
+  {
+    "id": "d1-q6-success",
+    "text": "RESPOSTA CERTA! 13  mais  4 é igual a 17."
+  },
+  {
+    "id": "d1-q6-error",
+    "text": "NÃO FOI DESSA VEZ! Parta do 13 e avance quatro números: 14, 15, 16, 17."
+  },
+  {
+    "id": "d1-q7-prompt",
+    "text": "Quanto é 15  mais  5?"
+  },
+  {
+    "id": "d1-q7-success",
+    "text": "PERFEITO! 15  mais  5 completa 20."
+  },
+  {
+    "id": "d1-q7-error",
+    "text": "VOCÊ ESTÁ QUASE LÁ! Conte cinco números depois do 15 até completar duas dezenas."
+  },
+  {
+    "id": "d1-q8-prompt",
+    "text": "Quanto é 6  mais  5?"
+  },
+  {
+    "id": "d1-q8-success",
+    "text": "MUITO BOM! Você calculou corretamente: 6  mais  5  igual a  11."
+  },
+  {
+    "id": "d1-q8-error",
+    "text": "VAMOS REVER! Comece no 6 e acrescente 5 unidades, uma de cada vez."
+  },
+  {
+    "id": "d1-q9-prompt",
+    "text": "Quanto é 11  mais  7?"
+  },
+  {
+    "id": "d1-q9-success",
+    "text": "MANDOU BEM! A soma de 11 e 7 é 18."
+  },
+  {
+    "id": "d1-q9-error",
+    "text": "TENTE MAIS UMA VEZ! A partir do 11, conte mais sete números para encontrar a resposta."
+  },
+  {
+    "id": "d1-q10-prompt",
+    "text": "Qual adição tem resultado 18?"
+  },
+  {
+    "id": "d1-q10-success",
+    "text": "ACERTOU! A adição 10  mais  8 tem resultado 18."
+  },
+  {
+    "id": "d1-q10-error",
+    "text": "AINDA NÃO! Calcule o resultado de cada alternativa e procure a soma que forma 18."
+  },
+  {
+    "id": "d1-q11-prompt",
+    "text": "Quanto é 9  mais  8?"
+  },
+  {
+    "id": "d1-q11-success",
+    "text": "BOA DESCOBERTA! 9  mais  8  igual a  17: uma dezena e sete unidades."
+  },
+  {
+    "id": "d1-q11-error",
+    "text": "EXPERIMENTE COMPLETAR 10! Use 1 das 8 unidades para transformar 9 em 10. Depois, acrescente as 7 que restaram."
+  },
+  {
+    "id": "d1-q12-prompt",
+    "text": "Quanto é 12  mais  6?"
+  },
+  {
+    "id": "d1-q12-success",
+    "text": "VOCÊ AVANÇOU! Somar 6 a 12 leva ao 18."
+  },
+  {
+    "id": "d1-q12-error",
+    "text": "SIGA A CONTAGEM! Guarde o 12 e dê seis passos para a frente, contando um número por passo."
+  },
+  {
+    "id": "d1-q13-prompt",
+    "text": "Quanto é 7  mais  7?"
+  },
+  {
+    "id": "d1-q13-success",
+    "text": "BELO RACIOCÍNIO! Duas parcelas de 7 formam 14."
+  },
+  {
+    "id": "d1-q13-error",
+    "text": "USE O DOBRO! Imagine dois grupos com sete objetos e conte quantos há nos dois grupos juntos."
+  },
+  {
+    "id": "d1-q14-prompt",
+    "text": "Qual número completa 8  mais  qual número  igual a  20?"
+  },
+  {
+    "id": "d1-q14-success",
+    "text": "DESAFIO VENCIDO! 8  mais  12 completa 20."
+  },
+  {
+    "id": "d1-q14-error",
+    "text": "BUSQUE A PARTE QUE FALTA! Do 8 até o 10 faltam 2; do 10 até o 20 faltam mais 10. Junte esses avanços."
+  },
+  {
+    "id": "d1-q15-prompt",
+    "text": "Qual adição tem resultado 19?"
+  },
+  {
+    "id": "d1-q15-success",
+    "text": "VOCÊ CONFERIU DIREITINHO! 12  mais  7  igual a  19."
+  },
+  {
+    "id": "d1-q15-error",
+    "text": "COMPARE AS SOMAS! Calcule cada par de parcelas e procure o resultado que vem logo antes de 20."
+  },
+  {
+    "id": "d2-q1-prompt",
+    "text": "Quanto é 12 menos 5?"
+  },
+  {
+    "id": "d2-q1-success",
+    "text": "MUITO BEM! Ao retirar 5 de 12, restam 7."
+  },
+  {
+    "id": "d2-q1-error",
+    "text": "TENTE NOVAMENTE! Comece no 12 e conte cinco números para trás."
+  },
+  {
+    "id": "d2-q2-prompt",
+    "text": "Quanto é 15 menos 7?"
+  },
+  {
+    "id": "d2-q2-success",
+    "text": "PARABÉNS! Você calculou corretamente: 15 menos 7  igual a  8."
+  },
+  {
+    "id": "d2-q2-error",
+    "text": "PENSE COM CALMA! Descubra quantas unidades precisamos acrescentar ao 7 para chegar ao 15."
+  },
+  {
+    "id": "d2-q3-prompt",
+    "text": "Quanto é 20 menos 10?"
+  },
+  {
+    "id": "d2-q3-success",
+    "text": "ISSO MESMO! Ao retirar 10 de 20, resta 10."
+  },
+  {
+    "id": "d2-q3-error",
+    "text": "VAMOS TENTAR DE NOVO! O número 20 possui duas dezenas. Se retirarmos uma dezena, quanto resta?"
+  },
+  {
+    "id": "d2-q4-prompt",
+    "text": "Quanto é 14 menos 6?"
+  },
+  {
+    "id": "d2-q4-success",
+    "text": "ÓTIMO! A diferença entre 14 e 6 é 8."
+  },
+  {
+    "id": "d2-q4-error",
+    "text": "QUASE LÁ! Parta do 14 e volte seis números na sequência numérica."
+  },
+  {
+    "id": "d2-q5-prompt",
+    "text": "Quanto é 14 menos 4?"
+  },
+  {
+    "id": "d2-q5-success",
+    "text": "RESPOSTA CERTA! Ao tirar 4 de 14, chegamos ao 10."
+  },
+  {
+    "id": "d2-q5-error",
+    "text": "OBSERVE COM ATENÇÃO! Retire as 4 unidades do número 14. Qual número fica depois dessa retirada?"
+  },
+  {
+    "id": "d2-q6-prompt",
+    "text": "Quanto é 11 menos 3?"
+  },
+  {
+    "id": "d2-q6-success",
+    "text": "EXCELENTE! Você descobriu que 11 menos 3 é igual a 8."
+  },
+  {
+    "id": "d2-q6-error",
+    "text": "NÃO FOI DESSA VEZ! Conte três números para trás a partir do 11: 10, 9, 8."
+  },
+  {
+    "id": "d2-q7-prompt",
+    "text": "Quanto é 16 menos 9?"
+  },
+  {
+    "id": "d2-q7-success",
+    "text": "PERFEITO! A diferença entre 16 e 9 é 7."
+  },
+  {
+    "id": "d2-q7-error",
+    "text": "TENTE OUTRA ESTRATÉGIA! Conte do 9 até o 16 e descubra quantos números foram acrescentados."
+  },
+  {
+    "id": "d2-q8-prompt",
+    "text": "Quanto é 14 menos 7?"
+  },
+  {
+    "id": "d2-q8-success",
+    "text": "MUITO BOM! A metade de 14 é 7."
+  },
+  {
+    "id": "d2-q8-error",
+    "text": "VAMOS PENSAR! O número 14 pode ser dividido em duas partes iguais. Quanto vale cada parte?"
+  },
+  {
+    "id": "d2-q9-prompt",
+    "text": "Quanto é 15 menos 9?"
+  },
+  {
+    "id": "d2-q9-success",
+    "text": "MARAVILHA! Você acertou: 15 menos 9  igual a  6."
+  },
+  {
+    "id": "d2-q9-error",
+    "text": "TENTE MAIS UMA VEZ! Descubra quanto falta para o 9 chegar ao 15."
+  },
+  {
+    "id": "d2-q10-prompt",
+    "text": "Qual subtração tem resultado 5?"
+  },
+  {
+    "id": "d2-q10-success",
+    "text": "PARABÉNS! Você identificou que 11 menos 6 é igual a 5."
+  },
+  {
+    "id": "d2-q10-error",
+    "text": "AINDA NÃO! Resolva cada alternativa e procure a subtração cujo resultado seja 5."
+  },
+  {
+    "id": "d2-q11-prompt",
+    "text": "Quanto é 18  menos  6?"
+  },
+  {
+    "id": "d2-q11-success",
+    "text": "BEM PENSADO! Ao tirar 6 de 18, ficam 12."
+  },
+  {
+    "id": "d2-q11-error",
+    "text": "CONTE PARA TRÁS! Comece no 18 e volte seis unidades. Marque um dedo para cada passo."
+  },
+  {
+    "id": "d2-q12-prompt",
+    "text": "Quanto é 17  menos  8?"
+  },
+  {
+    "id": "d2-q12-success",
+    "text": "VOCÊ ENCONTROU! 17  menos  8  igual a  9."
+  },
+  {
+    "id": "d2-q12-error",
+    "text": "PASSE PELO 10! Tire primeiro 7 de 17. Ainda falta tirar mais 1 para completar a retirada de 8."
+  },
+  {
+    "id": "d2-q13-prompt",
+    "text": "Quanto é 19  menos  4?"
+  },
+  {
+    "id": "d2-q13-success",
+    "text": "CÁLCULO CERTO! Retirar 4 de 19 deixa 15."
+  },
+  {
+    "id": "d2-q13-error",
+    "text": "SEPARE AS UNIDADES! Pense em 19 como 10 mais 9. Retire 4 das 9 unidades e mantenha a dezena."
+  },
+  {
+    "id": "d2-q14-prompt",
+    "text": "Qual número completa 16  menos  qual número  igual a  10?"
+  },
+  {
+    "id": "d2-q14-success",
+    "text": "VOCÊ DESCOBRIU A RETIRADA! 16  menos  6  igual a  10."
+  },
+  {
+    "id": "d2-q14-error",
+    "text": "INVESTIGUE A DIFERENÇA! Conte quanto precisamos retirar de 16 para chegar a 10."
+  },
+  {
+    "id": "d2-q15-prompt",
+    "text": "Qual subtração tem resultado 4?"
+  },
+  {
+    "id": "d2-q15-success",
+    "text": "ÓTIMA COMPARAÇÃO! 13  menos  9 deixa exatamente 4."
+  },
+  {
+    "id": "d2-q15-error",
+    "text": "VERIFIQUE CADA OPÇÃO! Faça as retiradas e veja qual delas deixa quatro unidades."
+  },
+  {
+    "id": "d3-q1-prompt",
+    "text": "Lia tinha 8 moedas e ganhou mais 5. Com quantas moedas ela ficou?"
+  },
+  {
+    "id": "d3-q1-success",
+    "text": "RESPOSTA CERTA! Lia ficou com 13 moedas, pois 8  mais  5  igual a  13."
+  },
+  {
+    "id": "d3-q1-error",
+    "text": "TENTE NOVAMENTE! Como Lia ganhou mais 5 moedas, a quantidade aumentou. Faça a adição 8  mais  5."
+  },
+  {
+    "id": "d3-q2-prompt",
+    "text": "No foguete havia 15 lugares. 6 já foram ocupados. Quantos lugares ainda estão livres?"
+  },
+  {
+    "id": "d3-q2-success",
+    "text": "MUITO BEM! Ainda estão livres 9 lugares, pois 15 menos 6  igual a  9."
+  },
+  {
+    "id": "d3-q2-error",
+    "text": "OBSERVE COM ATENÇÃO! Dos 15 lugares do foguete, 6 já foram ocupados. Para descobrir quantos ainda estão livres, calcule 15 menos 6."
+  },
+  {
+    "id": "d3-q3-prompt",
+    "text": "Um estudante comprou 7 cadernos e depois comprou mais 9. Quantos cadernos ele comprou ao todo?"
+  },
+  {
+    "id": "d3-q3-success",
+    "text": "ISSO MESMO! O estudante comprou 16 cadernos ao todo, pois 7  mais  9  igual a  16."
+  },
+  {
+    "id": "d3-q3-error",
+    "text": "PENSE NOVAMENTE! Ele comprou 7 cadernos e depois mais 9. Junte as duas compras para descobrir o total: 7  mais  9."
+  },
+  {
+    "id": "d3-q4-prompt",
+    "text": "Havia 13 pessoas esperando transporte. 5 já embarcaram. Quantas pessoas ficaram esperando?"
+  },
+  {
+    "id": "d3-q4-success",
+    "text": "PARABÉNS! Ficaram 8 pessoas esperando, pois 13 menos 5  igual a  8."
+  },
+  {
+    "id": "d3-q4-error",
+    "text": "TENTE MAIS UMA VEZ! Quando 5 pessoas embarcaram, elas saíram do grupo que estava esperando. Calcule 13 menos 5."
+  },
+  {
+    "id": "d3-q5-prompt",
+    "text": "Bia tinha 10 estrelas e ganhou 4 em uma missão. Quantas estrelas ela tem agora?"
+  },
+  {
+    "id": "d3-q5-success",
+    "text": "EXCELENTE! Bia tem agora 14 estrelas, pois 10  mais  4  igual a  14."
+  },
+  {
+    "id": "d3-q5-error",
+    "text": "PRESTE ATENÇÃO! Bia ganhou 4 estrelas, por isso devemos acrescentar essa quantidade às 10 estrelas que ela já tinha. Calcule 10  mais  4."
+  },
+  {
+    "id": "d3-q6-prompt",
+    "text": "Um robô tinha 13 peças. Ele usou 8 peças para consertar uma ponte. Quantas peças sobraram?"
+  },
+  {
+    "id": "d3-q6-success",
+    "text": "ÓTIMO TRABALHO! Sobraram 5 peças, pois 13 menos 8  igual a  5."
+  },
+  {
+    "id": "d3-q6-error",
+    "text": "ANALISE NOVAMENTE! As 8 peças usadas devem ser retiradas das 13 peças que o robô tinha. Faça a subtração 13 menos 8."
+  },
+  {
+    "id": "d3-q7-prompt",
+    "text": "No jardim havia 6 flores. Depois nasceram mais 6. Quantas flores há no jardim?"
+  },
+  {
+    "id": "d3-q7-success",
+    "text": "PERFEITO! Agora há 12 flores no jardim, pois 6  mais  6  igual a  12."
+  },
+  {
+    "id": "d3-q7-error",
+    "text": "TENTE NOVAMENTE! Como nasceram mais 6 flores, devemos juntar essa quantidade às 6 flores que já estavam no jardim. Calcule 6  mais  6."
+  },
+  {
+    "id": "d3-q8-prompt",
+    "text": "Lucas tinha 18 figurinhas, perdeu 9 no jogo. Com quantas figurinhas ele ficou?"
+  },
+  {
+    "id": "d3-q8-success",
+    "text": "VOCÊ ACERTOU! Lucas ficou com 9 figurinhas, pois 18 menos 9  igual a  9."
+  },
+  {
+    "id": "d3-q8-error",
+    "text": "PENSE UM POUCO MAIS! Quando Lucas perdeu 9 figurinhas, sua quantidade diminuiu. Retire 9 de 18 fazendo a operação 18 menos 9."
+  },
+  {
+    "id": "d3-q9-prompt",
+    "text": "Laura tinha 15 reais, gastou 7 para comprar um lanche. Quanto sobrou?"
+  },
+  {
+    "id": "d3-q9-success",
+    "text": "MUITO BEM! Sobraram 8 reais, pois 15 menos 7  igual a  8."
+  },
+  {
+    "id": "d3-q9-error",
+    "text": "OBSERVE A SITUAÇÃO! Como Laura gastou 7 reais, esse valor deve ser retirado dos 15 reais que ela tinha. Calcule 15 menos 7."
+  },
+  {
+    "id": "d3-q10-prompt",
+    "text": "Uma turma tinha 17 estudantes. 7 foram para a biblioteca. Quantos continuaram na sala?"
+  },
+  {
+    "id": "d3-q10-success",
+    "text": "ACERTOU EM CHEIO! Continuaram 10 estudantes na sala, pois 17 menos 7  igual a  10."
+  },
+  {
+    "id": "d3-q10-error",
+    "text": "TENTE MAIS UMA VEZ! Os 7 estudantes que foram para a biblioteca saíram da sala. Para descobrir quantos permaneceram, faça 17 menos 7."
+  },
+  {
+    "id": "d3-q11-prompt",
+    "text": "Nina tem 7 lápis azuis e 6 lápis vermelhos. Quantos lápis ela tem ao todo?"
+  },
+  {
+    "id": "d3-q11-success",
+    "text": "BOA CONTAGEM! Nina tem 13 lápis, porque 7  mais  6  igual a  13."
+  },
+  {
+    "id": "d3-q11-error",
+    "text": "JUNTE OS GRUPOS! Os lápis azuis e vermelhos fazem parte da mesma coleção. Some 7 e 6."
+  },
+  {
+    "id": "d3-q12-prompt",
+    "text": "Pedro tem 16 figurinhas e Ana tem 11. Quantas figurinhas Pedro tem a mais que Ana?"
+  },
+  {
+    "id": "d3-q12-success",
+    "text": "COMPARAÇÃO CERTA! Pedro tem 5 figurinhas a mais: 16  menos  11  igual a  5."
+  },
+  {
+    "id": "d3-q12-error",
+    "text": "FORME PARES! Combine uma figurinha de Pedro com uma de Ana. A diferença é a quantidade que sobra da coleção de Pedro."
+  },
+  {
+    "id": "d3-q13-prompt",
+    "text": "Uma caixa deve guardar 20 peças. Já colocamos 14. Quantas peças faltam para completar a caixa?"
+  },
+  {
+    "id": "d3-q13-success",
+    "text": "VOCÊ COMPLETOU A IDEIA! Faltam 6 peças, pois 20  menos  14  igual a  6."
+  },
+  {
+    "id": "d3-q13-error",
+    "text": "PROCURE O QUE FALTA! Conte os passos de 14 até 20 ou calcule 20  menos  14."
+  },
+  {
+    "id": "d3-q14-prompt",
+    "text": "Havia 18 livros na estante. A turma pegou 7 para ler. Quantos livros ficaram na estante?"
+  },
+  {
+    "id": "d3-q14-success",
+    "text": "LEITURA ATENTA! Ficaram 11 livros na estante: 18  menos  7  igual a  11."
+  },
+  {
+    "id": "d3-q14-error",
+    "text": "ACOMPANHE A RETIRADA! Os sete livros usados pela turma saíram da estante. Retire 7 do total de 18."
+  },
+  {
+    "id": "d3-q15-prompt",
+    "text": "Uma turma tinha 9 bolas e recebeu mais 8. Qual operação mostra quantas bolas ela tem agora?"
+  },
+  {
+    "id": "d3-q15-success",
+    "text": "ESCOLHA CORRETA! A turma recebeu mais bolas; 9  mais  8  igual a  17."
+  },
+  {
+    "id": "d3-q15-error",
+    "text": "OBSERVE O QUE ACONTECEU! A quantidade de bolas aumentou com a chegada de oito novas. Escolha a operação que junta as duas quantidades."
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "kind": "intro",
+    "scene": 1,
+    "text": "Olá, crianças! Hoje temos um desafio matemático muito divertido: o Triângulo da Soma! Vocês estão preparados para testar sua inteligência?",
+    "start": 0,
+    "end": 15,
+    "speech_end": 8.980958333333332,
+    "events": [
+      {
+        "text": "Olá",
+        "start": 0.12
+      },
+      {
+        "text": "crianças",
+        "start": 0.5143664596273292
+      },
+      {
+        "text": "Hoje",
+        "start": 1.473131469979296
+      },
+      {
+        "text": "temos",
+        "start": 1.8181966873706004
+      },
+      {
+        "text": "um",
+        "start": 2.1016677018633536
+      },
+      {
+        "text": "desafio",
+        "start": 2.286493788819876
+      },
+      {
+        "text": "matemático",
+        "start": 2.7917991718426505
+      },
+      {
+        "text": "muito",
+        "start": 3.518895445134576
+      },
+      {
+        "text": "divertido",
+        "start": 3.839288819875777
+      },
+      {
+        "text": "o",
+        "start": 4.726625258799173
+      },
+      {
+        "text": "Triângulo",
+        "start": 4.8128913043478265
+      },
+      {
+        "text": "da",
+        "start": 5.305817805383023
+      },
+      {
+        "text": "Soma",
+        "start": 5.4413850931677015
+      },
+      {
+        "text": "Vocês",
+        "start": 6.131516563146998
+      },
+      {
+        "text": "estão",
+        "start": 6.414987577639752
+      },
+      {
+        "text": "preparados",
+        "start": 6.735380952380952
+      },
+      {
+        "text": "para",
+        "start": 7.388546583850933
+      },
+      {
+        "text": "testar",
+        "start": 7.598044513457557
+      },
+      {
+        "text": "sua",
+        "start": 7.992412008281574
+      },
+      {
+        "text": "inteligência",
+        "start": 8.189616977225672
+      }
+    ]
+  },
+  {
+    "kind": "regras",
+    "scene": 2,
+    "text": "Observem este triângulo. Temos seis quadradinhos vazios e seis números aqui embaixo. A missão é arrastar cada número para um quadradinho, colocando todos eles no triângulo.",
+    "start": 15,
+    "end": 25.416666666666664,
+    "speech_end": 10.179041666666667,
+    "events": [
+      {
+        "text": "Observem",
+        "start": 0.12
+      },
+      {
+        "text": "este",
+        "start": 0.7854585921325051
+      },
+      {
+        "text": "triângulo",
+        "start": 0.9826635610766046
+      },
+      {
+        "text": "Temos",
+        "start": 1.8059037267080744
+      },
+      {
+        "text": "seis",
+        "start": 2.0647028985507245
+      },
+      {
+        "text": "quadradinhos",
+        "start": 2.335795031055901
+      },
+      {
+        "text": "vazios",
+        "start": 3.0505983436853006
+      },
+      {
+        "text": "e",
+        "start": 3.4819306418219464
+      },
+      {
+        "text": "seis",
+        "start": 3.60516149068323
+      },
+      {
+        "text": "números",
+        "start": 3.913261904761905
+      },
+      {
+        "text": "aqui",
+        "start": 4.233655279503106
+      },
+      {
+        "text": "embaixo",
+        "start": 4.529420289855072
+      },
+      {
+        "text": "A",
+        "start": 5.367454451345757
+      },
+      {
+        "text": "missão",
+        "start": 5.466056935817806
+      },
+      {
+        "text": "é",
+        "start": 5.885052795031057
+      },
+      {
+        "text": "arrastar",
+        "start": 5.946690476190477
+      },
+      {
+        "text": "cada",
+        "start": 6.414987577639752
+      },
+      {
+        "text": "número",
+        "start": 6.723087991718427
+      },
+      {
+        "text": "para",
+        "start": 7.1174120082815735
+      },
+      {
+        "text": "um",
+        "start": 7.277651138716357
+      },
+      {
+        "text": "quadradinho",
+        "start": 7.3639182194616986
+      },
+      {
+        "text": "colocando",
+        "start": 8.226581780538302
+      },
+      {
+        "text": "todos",
+        "start": 8.805774327122151
+      },
+      {
+        "text": "eles",
+        "start": 9.126211180124223
+      },
+      {
+        "text": "no",
+        "start": 9.508241200828156
+      },
+      {
+        "text": "triângulo",
+        "start": 9.619136645962731
+      }
+    ]
+  },
+  {
+    "kind": "cinco",
+    "scene": 2,
+    "text": "Mas atenção! A soma dos três números de cada lado precisa ser igual a cinco!",
+    "start": 25.416666666666664,
+    "end": 35.0,
+    "speech_end": 4.816083333333333,
+    "events": [
+      {
+        "text": "Mas",
+        "start": 0.12
+      },
+      {
+        "text": "atenção",
+        "start": 0.2925320910973085
+      },
+      {
+        "text": "A",
+        "start": 1.2636335403726706
+      },
+      {
+        "text": "soma",
+        "start": 1.3745714285714286
+      },
+      {
+        "text": "dos",
+        "start": 1.7073012422360248
+      },
+      {
+        "text": "três",
+        "start": 1.8798343685300205
+      },
+      {
+        "text": "números",
+        "start": 2.21256314699793
+      },
+      {
+        "text": "de",
+        "start": 2.6069306418219464
+      },
+      {
+        "text": "cada",
+        "start": 2.717826086956522
+      },
+      {
+        "text": "lado",
+        "start": 3.0012971014492758
+      },
+      {
+        "text": "precisa",
+        "start": 3.3586987577639755
+      },
+      {
+        "text": "ser",
+        "start": 3.8146594202898556
+      },
+      {
+        "text": "igual",
+        "start": 3.9995289855072467
+      },
+      {
+        "text": "a",
+        "start": 4.307629399585922
+      },
+      {
+        "text": "cinco",
+        "start": 4.369223602484473
+      }
+    ]
+  },
+  {
+    "kind": "duvida",
+    "scene": 3,
+    "text": "Então precisamos escolher os números com cuidado! Porque os três lados precisam dar cinco, não é?",
+    "start": 35.0,
+    "end": 40.916666666666664,
+    "speech_end": 5.678,
+    "events": [
+      {
+        "text": "Então",
+        "start": 0.12
+      },
+      {
+        "text": "precisamos",
+        "start": 0.4527287784679089
+      },
+      {
+        "text": "escolher",
+        "start": 1.007292960662526
+      },
+      {
+        "text": "os",
+        "start": 1.537226708074534
+      },
+      {
+        "text": "números",
+        "start": 1.6727950310559008
+      },
+      {
+        "text": "com",
+        "start": 2.0548250517598343
+      },
+      {
+        "text": "cuidado",
+        "start": 2.215021739130435
+      },
+      {
+        "text": "Porque",
+        "start": 3.0012971014492758
+      },
+      {
+        "text": "os",
+        "start": 3.284725672877847
+      },
+      {
+        "text": "três",
+        "start": 3.407956521739131
+      },
+      {
+        "text": "lados",
+        "start": 3.716056935817806
+      },
+      {
+        "text": "precisam",
+        "start": 4.110424430641822
+      },
+      {
+        "text": "dar",
+        "start": 4.652694616977226
+      },
+      {
+        "text": "cinco",
+        "start": 4.862192546583851
+      },
+      {
+        "text": "não",
+        "start": 5.293524844720498
+      },
+      {
+        "text": "é",
+        "start": 5.490686335403727
+      }
+    ]
+  },
+  {
+    "kind": "explica",
+    "scene": 3,
+    "text": "Isso mesmo! E todos os números precisam ser utilizados uma única vez. Vocês podem arrastar, testar e mudar os números de lugar até encontrar a solução!",
+    "start": 40.916666666666664,
+    "end": 50.416666666666664,
+    "speech_end": 9.245375,
+    "events": [
+      {
+        "text": "Isso",
+        "start": 0.12
+      },
+      {
+        "text": "mesmo",
+        "start": 0.39113457556935816
+      },
+      {
+        "text": "E",
+        "start": 1.1157722567287784
+      },
+      {
+        "text": "todos",
+        "start": 1.2512971014492753
+      },
+      {
+        "text": "os",
+        "start": 1.5593975155279503
+      },
+      {
+        "text": "números",
+        "start": 1.7566024844720496
+      },
+      {
+        "text": "precisam",
+        "start": 2.163261904761905
+      },
+      {
+        "text": "ser",
+        "start": 2.6808602484472055
+      },
+      {
+        "text": "utilizados",
+        "start": 2.8780652173913044
+      },
+      {
+        "text": "uma",
+        "start": 3.518895445134576
+      },
+      {
+        "text": "única",
+        "start": 3.8023240165631473
+      },
+      {
+        "text": "vez",
+        "start": 4.184354037267081
+      },
+      {
+        "text": "Vocês",
+        "start": 4.837520703933747
+      },
+      {
+        "text": "podem",
+        "start": 5.207257763975156
+      },
+      {
+        "text": "arrastar",
+        "start": 5.552324016563148
+      },
+      {
+        "text": "testar",
+        "start": 6.193153209109732
+      },
+      {
+        "text": "e",
+        "start": 6.587520703933748
+      },
+      {
+        "text": "mudar",
+        "start": 6.649114906832298
+      },
+      {
+        "text": "os",
+        "start": 7.006516563146999
+      },
+      {
+        "text": "números",
+        "start": 7.1420838509316775
+      },
+      {
+        "text": "de",
+        "start": 7.524114906832299
+      },
+      {
+        "text": "lugar",
+        "start": 7.610380952380953
+      },
+      {
+        "text": "até",
+        "start": 7.943110766045549
+      },
+      {
+        "text": "encontrar",
+        "start": 8.140315734989647
+      },
+      {
+        "text": "a",
+        "start": 8.583939958592131
+      },
+      {
+        "text": "solução",
+        "start": 8.633241200828156
+      }
+    ]
+  },
+  {
+    "kind": "resolver",
+    "scene": 4,
+    "text": "Vamos lá! Pensem bem antes de escolher. Lembrem-se: cada lado precisa ter três números cuja soma seja cinco. Não se esqueçam de conferir os três lados!",
+    "start": 50.416666666666664,
+    "end": 60.416666666666664,
+    "speech_end": 9.769041666666666,
+    "events": [
+      {
+        "text": "Vamos",
+        "start": 0.12
+      },
+      {
+        "text": "lá",
+        "start": 0.48969461697722566
+      },
+      {
+        "text": "Pensem",
+        "start": 1.0048343685300207
+      },
+      {
+        "text": "bem",
+        "start": 1.4115372670807456
+      },
+      {
+        "text": "antes",
+        "start": 1.7073012422360248
+      },
+      {
+        "text": "de",
+        "start": 2.0154016563146997
+      },
+      {
+        "text": "escolher",
+        "start": 2.089332298136646
+      },
+      {
+        "text": "Lembrem-se",
+        "start": 2.8411004140786753
+      },
+      {
+        "text": "cada",
+        "start": 3.7653581780538308
+      },
+      {
+        "text": "lado",
+        "start": 4.02415734989648
+      },
+      {
+        "text": "precisa",
+        "start": 4.369223602484473
+      },
+      {
+        "text": "ter",
+        "start": 4.862192546583851
+      },
+      {
+        "text": "três",
+        "start": 5.047018633540373
+      },
+      {
+        "text": "números",
+        "start": 5.355119047619048
+      },
+      {
+        "text": "cuja",
+        "start": 5.761821946169773
+      },
+      {
+        "text": "soma",
+        "start": 6.082215320910973
+      },
+      {
+        "text": "seja",
+        "start": 6.414987577639752
+      },
+      {
+        "text": "cinco",
+        "start": 6.710751552795032
+      },
+      {
+        "text": "Não",
+        "start": 7.437847826086958
+      },
+      {
+        "text": "se",
+        "start": 7.635010351966874
+      },
+      {
+        "text": "esqueçam",
+        "start": 7.7459482401656325
+      },
+      {
+        "text": "de",
+        "start": 8.251211180124223
+      },
+      {
+        "text": "conferir",
+        "start": 8.36214906832298
+      },
+      {
+        "text": "os",
+        "start": 8.842739130434781
+      },
+      {
+        "text": "três",
+        "start": 8.966014492753622
+      },
+      {
+        "text": "lados",
+        "start": 9.249442028985506
+      }
+    ]
+  },
+  {
+    "kind": "testar",
+    "scene": 4,
+    "text": "Vou começar a testar! Será que consigo encontrar a posição certa?",
+    "start": 60.416666666666664,
+    "end": 75.0,
+    "speech_end": 4.136416666666666,
+    "events": [
+      {
+        "text": "Vou",
+        "start": 0.12
+      },
+      {
+        "text": "começar",
+        "start": 0.31716149068322974
+      },
+      {
+        "text": "a",
+        "start": 0.7977950310559007
+      },
+      {
+        "text": "testar",
+        "start": 0.8717246376811595
+      },
+      {
+        "text": "Será",
+        "start": 1.6210351966873704
+      },
+      {
+        "text": "que",
+        "start": 1.9907298136645961
+      },
+      {
+        "text": "consigo",
+        "start": 2.1016677018633536
+      },
+      {
+        "text": "encontrar",
+        "start": 2.6069306418219464
+      },
+      {
+        "text": "a",
+        "start": 3.075227743271222
+      },
+      {
+        "text": "posição",
+        "start": 3.1368643892339545
+      },
+      {
+        "text": "certa",
+        "start": 3.6297908902691516
+      }
+    ]
+  },
+  {
+    "kind": "parabens",
+    "scene": 5,
+    "text": "Parabéns! Você conseguiu! Com o três no topo e no meio da base, todos os lados somam cinco! Muito bem, pequeno matemático! Agora é a sua vez de praticar!",
+    "start": 75.0,
+    "end": 90.0,
+    "speech_end": 9.969375,
+    "events": [
+      {
+        "text": "Parabéns",
+        "start": 0.12
+      },
+      {
+        "text": "Você",
+        "start": 1.1034368530020706
+      },
+      {
+        "text": "conseguiu",
+        "start": 1.3992008281573498
+      },
+      {
+        "text": "Com",
+        "start": 2.2742008281573503
+      },
+      {
+        "text": "o",
+        "start": 2.4343975155279507
+      },
+      {
+        "text": "três",
+        "start": 2.496035196687371
+      },
+      {
+        "text": "no",
+        "start": 2.779462732919255
+      },
+      {
+        "text": "topo",
+        "start": 2.9150310559006214
+      },
+      {
+        "text": "e",
+        "start": 3.3216904761904766
+      },
+      {
+        "text": "no",
+        "start": 3.3709917184265015
+      },
+      {
+        "text": "meio",
+        "start": 3.4819306418219464
+      },
+      {
+        "text": "da",
+        "start": 3.7283933747412012
+      },
+      {
+        "text": "base",
+        "start": 3.86396066252588
+      },
+      {
+        "text": "todos",
+        "start": 4.319922360248447
+      },
+      {
+        "text": "os",
+        "start": 4.591056935817806
+      },
+      {
+        "text": "lados",
+        "start": 4.763590062111802
+      },
+      {
+        "text": "somam",
+        "start": 5.1209917184265015
+      },
+      {
+        "text": "cinco",
+        "start": 5.429092132505176
+      },
+      {
+        "text": "Muito",
+        "start": 6.168481366459627
+      },
+      {
+        "text": "bem",
+        "start": 6.501253623188407
+      },
+      {
+        "text": "pequeno",
+        "start": 6.772345755693582
+      },
+      {
+        "text": "matemático",
+        "start": 7.129747412008283
+      },
+      {
+        "text": "Agora",
+        "start": 8.201909937888198
+      },
+      {
+        "text": "é",
+        "start": 8.62094824016563
+      },
+      {
+        "text": "a",
+        "start": 8.68254244306418
+      },
+      {
+        "text": "sua",
+        "start": 8.7441801242236
+      },
+      {
+        "text": "vez",
+        "start": 9.015272256728776
+      },
+      {
+        "text": "de",
+        "start": 9.2617784679089
+      },
+      {
+        "text": "praticar",
+        "start": 9.360337474120081
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+.roulette-dialog{box-sizing:border-box;width:min(960px,96vw);max-width:96vw;max-height:96dvh;overflow:auto;margin:auto;padding:20px 28px;border:3px solid #4A8BDF;border-radius:24px;background:#EFFAFD;color:#203252;box-shadow:0 24px 80px #14274466}
+.roulette-dialog::backdrop{background:#17264dbb;backdrop-filter:blur(4px)}
+.roulette-dialog header{text-align:center}.roulette-dialog .eyebrow{color:#A0006D;font-size:12px}.roulette-dialog h2{margin:4px 0 12px;color:#A0006D;font-size:30px}
+.roulette-layout{display:grid;grid-template-columns:minmax(0,1.12fr) minmax(0,1fr);gap:26px;align-items:center}.roulette-stage{position:relative;display:flex;align-items:center;flex-direction:column;min-width:0}
+#planet-wheel{display:block;width:min(100%,49dvh);height:auto;overflow:visible;transform-origin:center}.roulette-pointer{position:absolute;top:0;left:50%;transform:translate(-50%,-5px);z-index:1;width:0;height:0;border-left:15px solid transparent;border-right:15px solid transparent;border-top:31px solid #203252;filter:drop-shadow(0 2px 0 white)}
+#roulette-attempt{font-weight:800;color:#A0006D;font-size:14px;margin:5px 0}.roulette-info p{font-size:15px;line-height:1.45;margin:0 0 9px}.roulette-info button{padding:7px 12px}.roulette-info table{width:100%;border-collapse:separate;border-spacing:0;margin-top:10px;background:white;border:1px solid #bed5ee;border-radius:12px;overflow:hidden;font-size:15px}.roulette-info th{background:#4A8BDF;color:white;text-align:left;padding:8px 12px}.roulette-info td{padding:7px 12px;border-bottom:1px solid #e4edf7}.roulette-info tr:last-child td{border:0}.roulette-info td:last-child{font-weight:800;white-space:nowrap}.planet-dot{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:8px}.roulette-info .selected td{background:#fff0bb;box-shadow:inset 0 2px #FFD166,inset 0 -2px #FFD166}
+#roulette-status{text-align:center;font-size:17px;font-weight:800;line-height:1.4;min-height:24px;margin:12px 0}.roulette-dialog footer{display:flex;justify-content:center;gap:12px}.roulette-dialog footer button{min-height:42px;padding:9px 18px}.roulette-dialog .primary{background:#A0006D;color:white}.roulette-dialog button:disabled{opacity:.65;cursor:default}#roulette-audio-status:empty{display:none}
+@media(min-width:721px) and (max-height:680px){.roulette-dialog{padding:10px 20px}.roulette-dialog h2{font-size:25px;margin-bottom:6px}.roulette-info p{font-size:13px;line-height:1.3}.roulette-info table{font-size:13px;margin-top:6px}.roulette-info th,.roulette-info td{padding:5px 10px}.roulette-layout{gap:18px}#planet-wheel{width:min(100%,50dvh)}#roulette-status{font-size:14px;margin:6px 0}.roulette-dialog footer button{min-height:36px;padding:6px 14px}}
+@media(max-width:720px){.roulette-dialog{padding:16px;max-height:94dvh}.roulette-layout{grid-template-columns:1fr;gap:10px}.roulette-dialog h2{font-size:26px}#planet-wheel{width:min(300px,75vw)}.roulette-dialog footer{flex-wrap:wrap}.roulette-dialog footer button{flex:1 0 180px}}
+#planet-wheel text{stroke:none;font-family:Arial,sans-serif}.roulette-info p,#roulette-status{color:#203252}
+
+/* Planetas ilustrados: roleta e painel brancos; pontuação apenas na tabela. */
+.roulette-dialog{background:#fff}
+.planet-label{display:flex;align-items:center;gap:10px}
+.planet-label img{width:32px;height:32px;object-fit:contain;flex-shrink:0}
+.roulette-info td{padding:4px 12px}
+@media(min-width:721px) and (max-height:680px){.planet-label img{width:24px;height:24px}.roulette-info td{padding:3px 10px}}

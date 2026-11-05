@@ -1,0 +1,18 @@
+[
+ ["abertura",1,"Olá, pessoal! Hoje, vamos aprender uma estratégia para fazer continhas de subtração com números até vinte!"],
+ ["dedos",2,"Podemos usar os dedos para subtrair. Para resolver oito menos quatro, levantamos oito dedos e abaixamos quatro:"],
+ ["retirar4",2,"um, dois, três, quatro!"],
+ ["conferir",3,"Agora, contamos os dedos que sobraram:"],
+ ["sobraram4",3,"um, dois, três, quatro!"],
+ ["resultado4",3,"Então, oito menos quatro é igual a quatro!"],
+ ["desafio",4,"Mas como resolver quando o primeiro número é maior que dez? Vamos guardar esse número na cabeça e contar de trás para frente!"],
+ ["quinze",5,"Vamos resolver quinze menos quatro. Primeiro, guardamos o quinze na cabeça."],
+ ["quatro",6,"Depois, levantamos quatro dedos, porque precisamos retirar quatro unidades."],
+ ["voltar",7,"Partindo do quinze, voltamos um número para cada dedo que abaixamos:"],
+ ["conta4",7,"quatorze… treze… doze… onze!"],
+ ["resultado",8,"Chegamos ao onze! Portanto, quinze menos quatro é igual a onze!"],
+ ["relembra",9,"Atenção: não contamos o quinze novamente! Começamos no quatorze. Cada dedo representa uma unidade que retiramos."],
+ ["sua_vez",10,"Agora é a sua vez! Guarde o dezesseis na cabeça e volte três números, usando os dedos. Quanto deu?"],
+ ["resposta_conta",10,"Quinze, quatorze, treze!"],
+ ["resposta",10,"Dezesseis menos três é igual a treze. Até a próxima aula!"]
+]

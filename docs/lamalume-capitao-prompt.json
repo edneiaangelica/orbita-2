@@ -1,0 +1,6 @@
+{
+  "tool": "built-in image_gen",
+  "target": "assets/imagens/diario/lamalume/pergunta.png",
+  "reference": "assets/imagens/diario/umbralia/capitao-orbita-fugindo-de-umbralia.png",
+  "prompt": "Edit target IMAGE 1 (Lamalume visitor). IMAGE 2 is the exact identity reference for Captain Órbita. Replace the child astronaut in image 1 with the SAME ADULT CAPTAIN from image 2: warm brown skin, short tightly curly black hair, trimmed black beard and mustache, thick eyebrows, adult proportions, white and royal-blue uniform with magenta piping, gold shoulder stripes and belt buckle, planet emblem. No helmet, face fully visible. Captain standing amused with one hand thoughtfully on chin while the elongated friendly mud creature proudly curls its mustache and asks him 'Sou bonito?' in the existing speech bubble. Preserve the mud creature, chocolate mud landscape, purple starry sky, warm sunset, small spaceship, playful cute 3D storybook style. Adapt composition to adult height so both full figures fit naturally. Do NOT include Death, scythe, gothic village, or other creatures from reference 2. Keep exact speech text 'Sou bonito?'."
+}

@@ -1,0 +1,59 @@
+{
+  "tool": "Built-in image_gen",
+  "style": "Use case: illustration-story. Single landscape children's storybook painting for Umbrália album, whimsical gothic but funny and friendly, painterly detailed textures, charcoal and muted violet with warm amber lighting, crooked gothic architecture. Death is tall slender friendly ivory skull with huge expressive dark eyes wearing long black hooded robe, carrying burgundy book. Gadanha is a separate living scythe with TWO EYES ON WOODEN HANDLE and a talking MOUTH ON SILVER CURVED BLADE, no human body. Umbralhenses are small gray-skinned aliens with huge eyes and exactly THREE ears (one on top, two sides). No words, letters, captions, panels, gore or violence. Scene: ",
+  "planetPrompt": "Use case: illustration-story. Create a single isolated planet Umbrália, an enormous charcoal black sphere with craggy coal surface, tiny crooked gothic towers silhouetted on its surface and soft violet rim light. Whimsical gothic children's storybook, richly painted, playful mysterious not frightening. Whole planet centered with ample margin, no text, no stars or backdrop. True transparent background. Asset for educational album.",
+  "assets": [
+    {
+      "file": "assets/imagens/diario/umbralia/umbralia.png",
+      "scene": null
+    },
+    {
+      "file": "assets/imagens/diario/umbralia/a-morte-e-a-gadanha.png",
+      "scene": "Full body portrait of Death and Gadanha side by side in a cobblestone village square, both important proud inhabitants posing, humorous contrasting personalities."
+    },
+    {
+      "file": "assets/imagens/diario/umbralia/a-morte.png",
+      "scene": "Create a NEW scene using the attached image only as character and style reference: Death alone in a cozy crooked gothic library, full tall black robe, holding open her large burgundy book and checking its blank pages thoughtfully with quill. No scythe, no other people."
+    },
+    {
+      "file": "assets/imagens/diario/umbralia/a-gadanha-nervosa.png",
+      "scene": "NEW scene matching reference characters: Gadanha ALONE closeup in crooked village, very irritated funny expression, raised eyebrows on its two eyes located vertically on wooden handle, grumbling mouth on blade. Silver blade has no eyes or nose. Full curved blade visible, tiny puff of comic steam, not scary. No Death."
+    },
+    {
+      "file": "assets/imagens/diario/umbralia/a-morte-e-a-gadanha-brigando.png",
+      "scene": "NEW scene matching reference characters: Death and Gadanha arguing like an old comedy duo across a small desk in village square. Death gesticulates holding her burgundy book, scythe leans forward grumbling mouth on blade, only TWO EYES ON HANDLE, none on blade. Exasperated funny expressions, papers flying, hourglass between them. No aggression or injury."
+    },
+    {
+      "file": "assets/imagens/diario/umbralia/gadanha-discordando-da-morte.png",
+      "scene": "NEW scene matching reference: Death on left points toward a cheerful elderly three-eared gray alien watering a tiny plant. Gadanha interposes itself with a comically disapproving mouth, eyes on wooden handle, as if saying it is too early. Elderly alien oblivious, humorous theatrical body language, no threat or contact. Blade has mouth only no eyes."
+    },
+    {
+      "file": "assets/imagens/diario/umbralia/morte-discordando-da-gadanha.png",
+      "scene": "NEW scene matching reference: Gadanha points toward a busy gray three-eared alien cobbler fixing a shoe at a workbench. Death firmly raises one finger in disagreement and shows unfinished tasks in burgundy book (pages with only small pictograms no lettering). Comedy, Death insists the alien still has things to do. Scythe eyes only on handle, mouth only on blade. Different indoor workshop composition."
+    },
+    {
+      "file": "assets/imagens/diario/umbralia/umbralhense.png",
+      "scene": "NEW scene, reference only for visual continuity: single charming Umbralhense portrait, gray skin, very large glossy eyes, exactly THREE clearly visible POINTED EARS: one on each side and one upright ear on top of head, no horns. Wears plum coat and mustard scarf. Listening with curious mischievous expression on crooked cobblestone street, ear at top turned sideways slightly, warm lantern. No Death or scythe, focus on lovable alien."
+    },
+    {
+      "file": "assets/imagens/diario/umbralia/o-equilibrio-dos-umbralhenses.png",
+      "scene": "NEW scene matching reference characters: elderly gray three-eared umbralhenses with wrinkles and large eyes attempt to please Death and Gadanha equally, one offers a bowl of spaghetti toward Death on left, another a pizza toward scythe on right. Death approves spaghetti and scythe disapproves it, comedic indecision. A huge old hourglass and piles of fallen blank calendar pages imply years of arguing in background. Cozy crooked dining hall. Two eyes only on wooden handle, mouth only on blade."
+    },
+    {
+      "file": "assets/imagens/diario/umbralia/a-morte-comendo-macarrão.png",
+      "scene": "NEW scene matching reference: Death happily eating spaghetti with a fork at a cozy gothic family dinner table with three-eared gray aliens, one youngster secretly hides a whole pizza inside an open wooden cupboard at right. Rich funny spaghetti strands. Burgundy book resting on side table. Gadanha NOT present. Warm welcoming humorous dinner, three ears visible on each alien."
+    },
+    {
+      "file": "assets/imagens/diario/umbralia/a-gadanha-comendo-pizza.png",
+      "scene": "NEW scene matching reference: Gadanha happily eats a slice of pizza, held to the mouth in its silver BLADE by a gray three-eared alien parent at family table. The two eyes are only on wooden handle; NO mouth on handle, NO eyes on blade. Other gray three-eared family members eat pizza. Through open side doorway a youngster slides bowl of spaghetti beneath bed to hide it. Death absent. Funny warm gothic dinner."
+    },
+    {
+      "file": "assets/imagens/diario/umbralia/capitao-orbita-fugindo-de-umbralia.png",
+      "scene": "NEW scene. Image 1 references gothic world, Death and Gadanha. Image 2 references ONLY CAPTAIN identity: brown-skinned man, short curly dark hair, trimmed beard, blue white space uniform with magenta details and planet emblem. Show this same captain comically fleeing Umbrália toward his small spaceship at right, glancing back with surprised eyes, empty hands. Behind him Death writes in burgundy book with quill and Gadanha sharpens its blade against a whetstone. Scythe only eyes on wood, only mouth on silver blade. Cartoon suspense funny not frightening, no injury. No children or robot from image 2. Wide composition."
+    }
+  ],
+  "corrections": {
+    "2": "Correct this illustration: the scythe must have ONLY the two existing eyes on its WOODEN HANDLE. Remove both eyes and nose from the SILVER BLADE, leaving only the expressive mouth on that blade with engraved metal above it. Keep all other characters, composition, style and lighting unchanged.",
+    "9": "Edit only the living scythe in this image: REMOVE the extra mouth located on its wooden handle below the two eyes, replacing that extra mouth with continuous carved wood texture. Preserve the two eyes on the handle and preserve the one mouth on the silver curved blade. No other modifications. Keep all characters, dinner scene, food, calendar and hourglass composition identical."
+  }
+}

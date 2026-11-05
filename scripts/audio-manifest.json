@@ -1,0 +1,790 @@
+[
+  {
+    "id": "d1-q1-prompt",
+    "text": "Qual é o número representado na figura?"
+  },
+  {
+    "id": "d1-q1-success",
+    "text": "MUITO BEM! Você identificou corretamente as centenas, as dezenas e as unidades!"
+  },
+  {
+    "id": "d1-q1-error",
+    "text": "TENTE NOVAMENTE! Conte cada tipo de peça separadamente. Há 3 placas de centena, 6 barrinhas de dezena e 4 cubinhos de unidade. Agora, junte essas quantidades para formar o número."
+  },
+  {
+    "id": "d1-q2-prompt",
+    "text": "Qual é o número representado na figura?"
+  },
+  {
+    "id": "d1-q2-success",
+    "text": "EXCELENTE! Você contou as peças do material dourado com muita atenção!"
+  },
+  {
+    "id": "d1-q2-error",
+    "text": "OBSERVE NOVAMENTE! Conte primeiro as placas de centena, depois as barrinhas de dezena e, por último, os cubinhos de unidade. A figura representa 4 centenas, 4 dezenas e 8 unidades."
+  },
+  {
+    "id": "d1-q3-prompt",
+    "text": "Qual é o número representado na figura?"
+  },
+  {
+    "id": "d1-q3-success",
+    "text": "ACERTOU! Você percebeu corretamente que o zero ocupa a ordem das dezenas!"
+  },
+  {
+    "id": "d1-q3-error",
+    "text": "TENTE MAIS UMA VEZ! A figura tem 8 placas de centena, nenhuma barrinha de dezena e 7 cubinhos de unidade. Lembre-se de colocar o zero na ordem em que não há peças."
+  },
+  {
+    "id": "d1-q4-prompt",
+    "text": "Qual é o número representado na figura?"
+  },
+  {
+    "id": "d1-q4-success",
+    "text": "PARABÉNS! Você reconheceu que a ausência de unidades deve ser representada pelo zero!"
+  },
+  {
+    "id": "d1-q4-error",
+    "text": "PRESTE ATENÇÃO! Conte as placas e as barrinhas: são 3 centenas e 9 dezenas. Como não há cubinhos de unidade, o algarismo das unidades deve ser zero."
+  },
+  {
+    "id": "d1-q5-prompt",
+    "text": "Qual é o número representado na figura?"
+  },
+  {
+    "id": "d1-q5-success",
+    "text": "ÓTIMO TRABALHO! Você identificou corretamente todas as ordens do número!"
+  },
+  {
+    "id": "d1-q5-error",
+    "text": "OBSERVE COM CUIDADO! O cubo grande representa a unidade de milhar. Depois, conte as placas, as barrinhas e os cubinhos. A figura mostra 3 unidades de milhar, 2 centenas, 3 dezenas e 4 unidades."
+  },
+  {
+    "id": "d1-q6-prompt",
+    "text": "Marque a alternativa em que aparece o número:"
+  },
+  {
+    "id": "d1-q6-success",
+    "text": "MUITO BEM! Você relacionou corretamente a escrita por extenso com a escrita em algarismos."
+  },
+  {
+    "id": "d1-q6-error",
+    "text": "Tente novamente! Confira cada ordem do número."
+  },
+  {
+    "id": "d1-q6-error-0",
+    "text": "Tente novamente! 345 é trezentos e quarenta e cinco. Observe a representação e confira cada ordem."
+  },
+  {
+    "id": "d1-q6-error-1",
+    "text": "Tente novamente! 435 é quatrocentos e trinta e cinco. Observe a representação e confira cada ordem."
+  },
+  {
+    "id": "d1-q6-error-2",
+    "text": "Tente novamente! 543 é quinhentos e quarenta e três. Observe a representação e confira cada ordem."
+  },
+  {
+    "id": "d1-q7-prompt",
+    "text": "Marque a alternativa em que aparece o número:"
+  },
+  {
+    "id": "d1-q7-success",
+    "text": "EXCELENTE! Você escreveu corretamente um número que possui zero na ordem das dezenas."
+  },
+  {
+    "id": "d1-q7-error",
+    "text": "Tente novamente! Confira cada ordem do número."
+  },
+  {
+    "id": "d1-q7-error-0",
+    "text": "Tente novamente!  Observe a representação e confira cada ordem."
+  },
+  {
+    "id": "d1-q7-error-1",
+    "text": "Tente novamente! 1490 é mil quatrocentos e noventa. Observe a representação e confira cada ordem."
+  },
+  {
+    "id": "d1-q7-error-2",
+    "text": "Tente novamente! 1000400.9 não é uma escrita válida de um número natural. Não separamos cada ordem com um ponto. Observe a representação e confira cada ordem."
+  },
+  {
+    "id": "d1-q7-error-3",
+    "text": "Tente novamente! 1499 é mil quatrocentos e noventa e nove. Observe a representação e confira cada ordem."
+  },
+  {
+    "id": "d1-q8-prompt",
+    "text": "Marque a alternativa em que aparece a forma como se lê o número:"
+  },
+  {
+    "id": "d1-q8-success",
+    "text": "RESPOSTA CERTA! Você fez a leitura correta de um número com unidades de milhar!"
+  },
+  {
+    "id": "d1-q8-error",
+    "text": "Tente novamente! Confira cada ordem do número."
+  },
+  {
+    "id": "d1-q8-error-0",
+    "text": "Tente novamente! Trezentos e nove é 309. Observe a representação e confira cada ordem."
+  },
+  {
+    "id": "d1-q8-error-1",
+    "text": "Tente novamente! Trezentos e noventa é 390. Observe a representação e confira cada ordem."
+  },
+  {
+    "id": "d1-q8-error-2",
+    "text": "Tente novamente!  Observe a representação e confira cada ordem."
+  },
+  {
+    "id": "d1-q8-error-3",
+    "text": "Tente novamente! Três mil e noventa é 3090. Observe a representação e confira cada ordem."
+  },
+  {
+    "id": "d1-q9-prompt",
+    "text": "A seguinte decomposição corresponde ao número:"
+  },
+  {
+    "id": "d1-q9-success",
+    "text": "VOCÊ CONSEGUIU! A recomposição das unidades de milhar, centenas, dezenas e unidades está correta."
+  },
+  {
+    "id": "d1-q9-error",
+    "text": "Confira a quantidade em cada ordem."
+  },
+  {
+    "id": "d1-q9-error-0",
+    "text": "Observe novamente! 1325 corresponde a 1 unidade(s) de milhar, 3 centena(s), 2 dezena(s) e 5 unidade(s). Compare com a decomposição da imagem."
+  },
+  {
+    "id": "d1-q9-error-1",
+    "text": "Observe novamente! 1235 corresponde a 1 unidade(s) de milhar, 2 centena(s), 3 dezena(s) e 5 unidade(s). Compare com a decomposição da imagem."
+  },
+  {
+    "id": "d1-q9-error-2",
+    "text": "Observe novamente! 1532 corresponde a 1 unidade(s) de milhar, 5 centena(s), 3 dezena(s) e 2 unidade(s). Compare com a decomposição da imagem."
+  },
+  {
+    "id": "d1-q9-error-3",
+    "text": "Observe novamente! 1352 corresponde a 1 unidade(s) de milhar, 3 centena(s), 5 dezena(s) e 2 unidade(s). Compare com a decomposição da imagem."
+  },
+  {
+    "id": "d1-q10-prompt",
+    "text": "A seguinte decomposição corresponde ao número:"
+  },
+  {
+    "id": "d1-q10-success",
+    "text": "PERFEITO! Você recompôs corretamente o número e respeitou a posição ocupada por cada algarismo."
+  },
+  {
+    "id": "d1-q10-error",
+    "text": "Confira a quantidade em cada ordem."
+  },
+  {
+    "id": "d1-q10-error-0",
+    "text": "Observe novamente! 1390 corresponde a 1 unidade(s) de milhar, 3 centena(s), 9 dezena(s) e 0 unidade(s). Compare com a decomposição da imagem."
+  },
+  {
+    "id": "d1-q10-error-1",
+    "text": "Observe novamente! 1903 corresponde a 1 unidade(s) de milhar, 9 centena(s), 0 dezena(s) e 3 unidade(s). Compare com a decomposição da imagem."
+  },
+  {
+    "id": "d1-q10-error-2",
+    "text": "Observe novamente! 1309 corresponde a 1 unidade(s) de milhar, 3 centena(s), 0 dezena(s) e 9 unidade(s). Compare com a decomposição da imagem."
+  },
+  {
+    "id": "d1-q10-error-3",
+    "text": "Observe novamente! 1930 corresponde a 1 unidade(s) de milhar, 9 centena(s), 3 dezena(s) e 0 unidade(s). Compare com a decomposição da imagem."
+  },
+  {
+    "id": "d1-q11-prompt",
+    "text": "Quanto é?"
+  },
+  {
+    "id": "d1-q11-success",
+    "text": "PERFEITO! Você recompôs corretamente o número e respeitou a posição ocupada por cada algarismo."
+  },
+  {
+    "id": "d1-q11-error",
+    "text": "ANALISE MAIS UMA VEZ! Observe em quais ordens há zero e não troque a posição das centenas, dezenas e unidades."
+  },
+  {
+    "id": "d1-q11-error-0",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 200  mais  20  mais  1. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q11-error-1",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 2000  mais  200  mais  20  mais  1. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q11-error-2",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 20000  mais  20  mais  1. Há 0 unidades de milhar e 0 centenas. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q11-error-3",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 2000  mais  20  mais  1. Há 0 centenas. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q12-prompt",
+    "text": "Quanto é?"
+  },
+  {
+    "id": "d1-q12-success",
+    "text": "PERFEITO! Você recompôs corretamente o número e respeitou a posição ocupada por cada algarismo."
+  },
+  {
+    "id": "d1-q12-error",
+    "text": "ANALISE MAIS UMA VEZ! Observe em quais ordens há zero e não troque a posição das centenas, dezenas e unidades."
+  },
+  {
+    "id": "d1-q12-error-0",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 300  mais  90  mais  1. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q12-error-1",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 3000  mais  9. Há 0 centenas e 0 dezenas. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q12-error-2",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 3000  mais  10  mais  9. Há 0 centenas. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q12-error-3",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 300  mais  10  mais  9. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q13-prompt",
+    "text": "Quanto é?"
+  },
+  {
+    "id": "d1-q13-success",
+    "text": "PERFEITO! Você recompôs corretamente o número e respeitou a posição ocupada por cada algarismo."
+  },
+  {
+    "id": "d1-q13-error",
+    "text": "ANALISE MAIS UMA VEZ! Observe em quais ordens há zero e não troque a posição das centenas, dezenas e unidades."
+  },
+  {
+    "id": "d1-q13-error-0",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 1000  mais  3. Há 0 centenas e 0 dezenas. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q13-error-1",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 1000  mais  30. Há 0 centenas e 0 unidades. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q13-error-2",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 3000  mais  100. Há 0 dezenas e 0 unidades. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q13-error-3",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 1000  mais  300. Há 0 dezenas e 0 unidades. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q14-prompt",
+    "text": "Quanto é?"
+  },
+  {
+    "id": "d1-q14-success",
+    "text": "PERFEITO! Você recompôs corretamente o número e respeitou a posição ocupada por cada algarismo."
+  },
+  {
+    "id": "d1-q14-error",
+    "text": "ANALISE MAIS UMA VEZ! Observe em quais ordens há zero e não troque a posição das centenas, dezenas e unidades."
+  },
+  {
+    "id": "d1-q14-error-0",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 3000  mais  600  mais  4. Há 0 dezenas. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q14-error-1",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 3000  mais  600  mais  40. Há 0 unidades. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q14-error-2",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 3000  mais  60  mais  4. Há 0 centenas. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q14-error-3",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 3000  mais  40  mais  6. Há 0 centenas. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q15-prompt",
+    "text": "Quanto é?"
+  },
+  {
+    "id": "d1-q15-success",
+    "text": "PERFEITO! Você recompôs corretamente o número e respeitou a posição ocupada por cada algarismo."
+  },
+  {
+    "id": "d1-q15-error",
+    "text": "ANALISE MAIS UMA VEZ! Observe em quais ordens há zero e não troque a posição das centenas, dezenas e unidades."
+  },
+  {
+    "id": "d1-q15-error-0",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 1000  mais  400. Há 0 dezenas e 0 unidades. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q15-error-1",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 1000  mais  40. Há 0 centenas e 0 unidades. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q15-error-2",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 1000  mais  4. Há 0 centenas e 0 dezenas. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d1-q15-error-3",
+    "text": "ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 4000  mais  100. Há 0 dezenas e 0 unidades. Observe em quais ordens há zero e não troque a posição dos algarismos."
+  },
+  {
+    "id": "d2-q1-prompt",
+    "text": "Qual é o sucessor de 399?"
+  },
+  {
+    "id": "d2-q1-success",
+    "text": "BRILHANTE! Você já sabe encontrar o sucessor!"
+  },
+  {
+    "id": "d2-q1-error",
+    "text": "TENTE NOVAMENTE! E lembre-se: sucessor é o número que vem depois."
+  },
+  {
+    "id": "d2-q2-prompt",
+    "text": "Qual é o antecessor de 500?"
+  },
+  {
+    "id": "d2-q2-success",
+    "text": "PARABÉNS! Você já sabe encontrar o antecessor!"
+  },
+  {
+    "id": "d2-q2-error",
+    "text": "NÃO É ISSO! Lembre-se: antecessor é o número que vem antes."
+  },
+  {
+    "id": "d2-q3-prompt",
+    "text": "Qual é o número que está entre o 698 e o 700?"
+  },
+  {
+    "id": "d2-q3-success",
+    "text": "RESPOSTA CERTA! Você brilhou!"
+  },
+  {
+    "id": "d2-q3-error",
+    "text": "TENTE NOVAMENTE! Você precisa encontrar o número que vem depois do 698 e antes do 700."
+  },
+  {
+    "id": "d2-q4-prompt",
+    "text": "Arraste os números abaixo, colocando-os na ordem CRESCENTE correta:"
+  },
+  {
+    "id": "d2-q4-success",
+    "text": "BRILHANTE! Você já sabe ordenar os números."
+  },
+  {
+    "id": "d2-q4-error",
+    "text": "RESPOSTA ERRADA! Lembre-se: ordem crescente é do menor para o maior."
+  },
+  {
+    "id": "d2-q5-prompt",
+    "text": "Arraste os números abaixo, colocando-os na ordem DECRESCENTE correta:"
+  },
+  {
+    "id": "d2-q5-success",
+    "text": "RESPOSTA CERTA! Você já sabe ordenar os números."
+  },
+  {
+    "id": "d2-q5-error",
+    "text": "TENTE OUTRA VEZ! E lembre-se: ordem decrescente é do maior para o menor."
+  },
+  {
+    "id": "d2-q6-prompt",
+    "text": "Qual é o maior?"
+  },
+  {
+    "id": "d2-q6-success",
+    "text": "RESPOSTA CERTA! 20 centenas é igual a 2000 que é o maior número entre as alternativas."
+  },
+  {
+    "id": "d2-q6-error",
+    "text": "Transforme cada quantidade em um número e compare."
+  },
+  {
+    "id": "d2-q6-error-0",
+    "text": "Resposta incorreta! 20 dezenas  igual a  200. Compare com as outras quantidades."
+  },
+  {
+    "id": "d2-q6-error-1",
+    "text": "Resposta incorreta! 3 centenas  igual a  300. Compare com as outras quantidades."
+  },
+  {
+    "id": "d2-q6-error-2",
+    "text": "Resposta incorreta! 1 unidade de milhar  igual a  1000. Compare com as outras quantidades."
+  },
+  {
+    "id": "d2-q7-prompt",
+    "text": "Qual é o sinal que completa a expressão abaixo?"
+  },
+  {
+    "id": "d2-q7-success",
+    "text": "VOCÊ ACERTOU! 5  mais  4  igual a  9 e 3  mais  6 também é igual a 9."
+  },
+  {
+    "id": "d2-q7-error",
+    "text": "VOCÊ ERROU! Refaça as operações e compare os resultados."
+  },
+  {
+    "id": "d2-q8-prompt",
+    "text": "Qual é o sinal que completa a expressão abaixo?"
+  },
+  {
+    "id": "d2-q8-success",
+    "text": "VOCÊ É DEMAIS! 200 é maior do que 100!"
+  },
+  {
+    "id": "d2-q8-error",
+    "text": "TENTE NOVAMENTE! Você tem que fazer as contas e comparar os resultados"
+  },
+  {
+    "id": "d2-q9-prompt",
+    "text": "Qual é o sinal que completa a operação abaixo:"
+  },
+  {
+    "id": "d2-q9-success",
+    "text": "ISSO MESMO! 500  mais  500 é igual a 1000, assim como 1500 - 500!"
+  },
+  {
+    "id": "d2-q9-error",
+    "text": "TENTE NOVAMENTE! Você tem que realizar as operações antes de saber se é menor, maior ou igual."
+  },
+  {
+    "id": "d2-q10-prompt",
+    "text": "Qual é o sinal que completa a operação abaixo:"
+  },
+  {
+    "id": "d2-q10-success",
+    "text": "EXCELENTE! 1500  mais  1500 é igual a 3000, que é maior que 2000 - 1000!"
+  },
+  {
+    "id": "d2-q10-error",
+    "text": "TENTE NOVAMENTE! 1500  mais  1500 é menor, maior ou igual a 2000 - 1000?"
+  },
+  {
+    "id": "d2-q11-prompt",
+    "text": "Marque o número maior:"
+  },
+  {
+    "id": "d2-q11-success",
+    "text": "EXCELENTE! O número 9731 é o maior"
+  },
+  {
+    "id": "d2-q11-error",
+    "text": "TENTE NOVAMENTE! Escolha o maior número entre as alternativas."
+  },
+  {
+    "id": "d2-q11-error-0",
+    "text": "TENTE NOVAMENTE! O número 1937 não é o número maior"
+  },
+  {
+    "id": "d2-q11-error-1",
+    "text": "TENTE NOVAMENTE! O número 3791 não é o número maior"
+  },
+  {
+    "id": "d2-q11-error-2",
+    "text": "TENTE NOVAMENTE! O número 7193 não é o número maior"
+  },
+  {
+    "id": "d2-q11-error-3",
+    "text": "TENTE NOVAMENTE! O número 9731 não é o número maior"
+  },
+  {
+    "id": "d2-q12-prompt",
+    "text": "Marque o número maior:"
+  },
+  {
+    "id": "d2-q12-success",
+    "text": "PARABÉNS! O número 754 é o maior"
+  },
+  {
+    "id": "d2-q12-error",
+    "text": "NÃO É ISSO! Escolha o maior número entre as alternativas."
+  },
+  {
+    "id": "d2-q12-error-0",
+    "text": "NÃO É ISSO! O número 237 não é o número maior"
+  },
+  {
+    "id": "d2-q12-error-1",
+    "text": "NÃO É ISSO! O número 491 não é o número maior"
+  },
+  {
+    "id": "d2-q12-error-2",
+    "text": "NÃO É ISSO! O número 368 não é o número maior"
+  },
+  {
+    "id": "d2-q12-error-3",
+    "text": "NÃO É ISSO! O número 754 não é o número maior"
+  },
+  {
+    "id": "d2-q13-prompt",
+    "text": "Marque o número maior:"
+  },
+  {
+    "id": "d2-q13-success",
+    "text": "VOCÊ É DEMAIS! O número 801 é o maior"
+  },
+  {
+    "id": "d2-q13-error",
+    "text": "OBSERVE COM ATENÇÃO! Escolha o maior número entre as alternativas."
+  },
+  {
+    "id": "d2-q13-error-0",
+    "text": "OBSERVE COM ATENÇÃO! O número 701 não é o número maior"
+  },
+  {
+    "id": "d2-q13-error-1",
+    "text": "OBSERVE COM ATENÇÃO! O número 710 não é o número maior"
+  },
+  {
+    "id": "d2-q13-error-2",
+    "text": "OBSERVE COM ATENÇÃO! O número 790 não é o número maior"
+  },
+  {
+    "id": "d2-q13-error-3",
+    "text": "OBSERVE COM ATENÇÃO! O número 801 não é o número maior"
+  },
+  {
+    "id": "d2-q14-prompt",
+    "text": "Marque o número maior:"
+  },
+  {
+    "id": "d2-q14-success",
+    "text": "PARABÉNS! O número 31 é o maior"
+  },
+  {
+    "id": "d2-q14-error",
+    "text": "VAMOS TENTAR DE NOVO! Escolha o maior número entre as alternativas."
+  },
+  {
+    "id": "d2-q14-error-0",
+    "text": "VAMOS TENTAR DE NOVO! O número 31 não é o número maior"
+  },
+  {
+    "id": "d2-q14-error-1",
+    "text": "VAMOS TENTAR DE NOVO! O número 19 não é o número maior"
+  },
+  {
+    "id": "d2-q14-error-2",
+    "text": "VAMOS TENTAR DE NOVO! O número 29 não é o número maior"
+  },
+  {
+    "id": "d2-q14-error-3",
+    "text": "VAMOS TENTAR DE NOVO! O número 13 não é o número maior"
+  },
+  {
+    "id": "d2-q15-prompt",
+    "text": "Marque o número maior:"
+  },
+  {
+    "id": "d2-q15-success",
+    "text": "É ISSO MESMO! O número 194 é o maior"
+  },
+  {
+    "id": "d2-q15-error",
+    "text": "OLHE OUTRA VEZ! Escolha o maior número entre as alternativas."
+  },
+  {
+    "id": "d2-q15-error-0",
+    "text": "OLHE OUTRA VEZ! O número 150 não é o número maior"
+  },
+  {
+    "id": "d2-q15-error-1",
+    "text": "OLHE OUTRA VEZ! O número 149 não é o número maior"
+  },
+  {
+    "id": "d2-q15-error-2",
+    "text": "OLHE OUTRA VEZ! O número 194 não é o número maior"
+  },
+  {
+    "id": "d2-q15-error-3",
+    "text": "OLHE OUTRA VEZ! O número 130 não é o número maior"
+  },
+  {
+    "id": "d3-q1-prompt",
+    "text": "No número 6345, qual é o algarismo que está na casa das dezenas?"
+  },
+  {
+    "id": "d3-q1-success",
+    "text": "ISSO MESMO! O 4 está na casa das dezenas!"
+  },
+  {
+    "id": "d3-q1-error",
+    "text": "NÃO É ISSO! Lembre-se do Quadro Posicional! Qual é o número que está na ordem das dezenas?"
+  },
+  {
+    "id": "d3-q2-prompt",
+    "text": "No número 1672, qual é o valor do algarismo 6?"
+  },
+  {
+    "id": "d3-q2-success",
+    "text": "MUITO BOM! O 6 vale 600!"
+  },
+  {
+    "id": "d3-q2-error",
+    "text": "NÃO É ISSO! Lembre-se que o valor do algarismo depende da posição que ele ocupa no número."
+  },
+  {
+    "id": "d3-q3-prompt",
+    "text": "No número 7180, qual é o valor do algarismo 7?"
+  },
+  {
+    "id": "d3-q3-success",
+    "text": "MUITO BOM! O 7 vale 7000!"
+  },
+  {
+    "id": "d3-q3-error",
+    "text": "NÃO É ISSO! Lembre-se que o valor do algarismo depende da posição que ele ocupa no número."
+  },
+  {
+    "id": "d3-q4-prompt",
+    "text": "No número 4521, qual é o algarismo que está na casa das unidades?"
+  },
+  {
+    "id": "d3-q4-success",
+    "text": "ESSA FOI FÁCIL! Você já sabia que o 1 vale uma unidade!"
+  },
+  {
+    "id": "d3-q4-error",
+    "text": "NÃO É ISSO! Lembre-se que o valor do algarismo depende da posição que ele ocupa no número."
+  },
+  {
+    "id": "d3-q5-prompt",
+    "text": "No número 1381, o 3 representa"
+  },
+  {
+    "id": "d3-q5-success",
+    "text": "BRILHANTE! O 3 está na casa das centenas!"
+  },
+  {
+    "id": "d3-q5-error",
+    "text": "NÃO É ISSO! Observe a posição que o algarismo 3 ocupa no número. Em que casa ele está: unidades, dezenas, centenas ou unidades de milhar?"
+  },
+  {
+    "id": "d3-q6-prompt",
+    "text": "O que vale mais?"
+  },
+  {
+    "id": "d3-q6-success",
+    "text": "ISSO MESMO! Você é demais!"
+  },
+  {
+    "id": "d3-q6-error",
+    "text": "TENTE NOVAMENTE! Descubra, antes, o número que cada opção representa. Ex: 70 DEZENAS  igual a  700"
+  },
+  {
+    "id": "d3-q7-prompt",
+    "text": "Qual dos números abaixo tem 0 na casa das centenas?"
+  },
+  {
+    "id": "d3-q7-success",
+    "text": "PERFEITO! O zero está na casa das centenas no número 2026."
+  },
+  {
+    "id": "d3-q7-error",
+    "text": "NÃO É ISSO! Lembre-se do quadro posicional."
+  },
+  {
+    "id": "d3-q8-prompt",
+    "text": "Se eu acrescentar 1 centena ao número 3846, eu fico com:"
+  },
+  {
+    "id": "d3-q8-success",
+    "text": "VIVA! Você descobriu que 800  mais  100 é igual a 900!"
+  },
+  {
+    "id": "d3-q8-error",
+    "text": "NÃO É ISSO! Tente fazer essa operação no quadro posicional."
+  },
+  {
+    "id": "d3-q9-prompt",
+    "text": "Se eu acrescentar 2 dezenas ao número 5127, eu fico com:"
+  },
+  {
+    "id": "d3-q9-success",
+    "text": "ISSO MESMO! Você é demais!"
+  },
+  {
+    "id": "d3-q9-error",
+    "text": "NÃO É ISSO! Acrescente duas dezenas apenas na ordem das dezenas."
+  },
+  {
+    "id": "d3-q10-prompt",
+    "text": "Se eu acrescentar 1 centena ao número 6900, eu fico com:"
+  },
+  {
+    "id": "d3-q10-success",
+    "text": "PARABÉNS! 6900  mais  100 é igual a 7000!"
+  },
+  {
+    "id": "d3-q10-error",
+    "text": "NÃO É ISSO! Tente fazer essa operação no quadro posicional."
+  },
+  {
+    "id": "d3-q11-prompt",
+    "text": "Quanto é 3 unidades de milhar  mais  5 centenas"
+  },
+  {
+    "id": "d3-q11-success",
+    "text": "LEGAL! 3000  mais  500  igual a  3500!"
+  },
+  {
+    "id": "d3-q11-error",
+    "text": "PENSE BEM! Tente fazer essa operação no quadro posicional."
+  },
+  {
+    "id": "d3-q12-prompt",
+    "text": "Quanto é 5 centenas  mais  2 dezenas  mais  1 unidade"
+  },
+  {
+    "id": "d3-q12-success",
+    "text": "MUITO BOM! 500  mais  20  mais  1  igual a  521!"
+  },
+  {
+    "id": "d3-q12-error",
+    "text": "PRESTE ATENÇÃO! Tente fazer essa operação no quadro posicional."
+  },
+  {
+    "id": "d3-q13-prompt",
+    "text": "Quanto é 1 unidade de milhar  mais  5 centenas  mais  2 dezenas"
+  },
+  {
+    "id": "d3-q13-success",
+    "text": "PARABÉNS! 1000  mais  500  mais  20  igual a  1520!"
+  },
+  {
+    "id": "d3-q13-error",
+    "text": "TENTE DE NOVO! Tente fazer essa operação no quadro posicional."
+  },
+  {
+    "id": "d3-q14-prompt",
+    "text": "Quanto é 7 centenas  mais  3 unidades"
+  },
+  {
+    "id": "d3-q14-success",
+    "text": "VOCÊ BRILHOU! 700  mais  3  igual a  703!"
+  },
+  {
+    "id": "d3-q14-error",
+    "text": "PENSE BEM! Tente fazer essa operação no quadro posicional."
+  },
+  {
+    "id": "d3-q15-prompt",
+    "text": "Quanto é 1 unidade de milhar  mais  2 dezenas"
+  },
+  {
+    "id": "d3-q15-success",
+    "text": "ÓTIMO! 1000  mais  20  igual a  1020!"
+  },
+  {
+    "id": "d3-q15-error",
+    "text": "OLHE DIREITO! Tente fazer essa operação no quadro posicional."
+  }
+]

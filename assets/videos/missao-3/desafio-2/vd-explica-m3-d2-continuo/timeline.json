@@ -1,0 +1,928 @@
+[
+  {
+    "kind": "regras",
+    "scene": 1,
+    "text": "Olá, crianças! Vamos resolver o quadrado da soma! Vocês devem completar os espaços com números de zero a nove. A soma de cada linha, na horizontal, e de cada coluna, na vertical, deve ser igual a dez!",
+    "start": 0,
+    "end": 10.208333333333334,
+    "speech_end": 10.138208333333333,
+    "events": [
+      {
+        "text": "Olá",
+        "start": 0.03
+      },
+      {
+        "text": "crianças",
+        "start": 0.35
+      },
+      {
+        "text": "Vamos",
+        "start": 1.1300000000000001
+      },
+      {
+        "text": "resolver",
+        "start": 1.4
+      },
+      {
+        "text": "o",
+        "start": 1.8
+      },
+      {
+        "text": "quadrado",
+        "start": 1.86
+      },
+      {
+        "text": "da",
+        "start": 2.26
+      },
+      {
+        "text": "soma",
+        "start": 2.3699999999999997
+      },
+      {
+        "text": "Vocês",
+        "start": 2.94
+      },
+      {
+        "text": "devem",
+        "start": 3.25
+      },
+      {
+        "text": "completar",
+        "start": 3.4599999999999995
+      },
+      {
+        "text": "os",
+        "start": 3.9
+      },
+      {
+        "text": "espaços",
+        "start": 3.94
+      },
+      {
+        "text": "com",
+        "start": 4.430000000000001
+      },
+      {
+        "text": "números",
+        "start": 4.58
+      },
+      {
+        "text": "de",
+        "start": 4.92
+      },
+      {
+        "text": "zero",
+        "start": 5.0200000000000005
+      },
+      {
+        "text": "a",
+        "start": 5.2700000000000005
+      },
+      {
+        "text": "nove",
+        "start": 5.32
+      },
+      {
+        "text": "A",
+        "start": 5.87
+      },
+      {
+        "text": "soma",
+        "start": 5.95
+      },
+      {
+        "text": "de",
+        "start": 6.2
+      },
+      {
+        "text": "cada",
+        "start": 6.29
+      },
+      {
+        "text": "linha",
+        "start": 6.51
+      },
+      {
+        "text": "na",
+        "start": 6.79
+      },
+      {
+        "text": "horizontal",
+        "start": 6.91
+      },
+      {
+        "text": "e",
+        "start": 7.550000000000001
+      },
+      {
+        "text": "de",
+        "start": 7.620000000000001
+      },
+      {
+        "text": "cada",
+        "start": 7.73
+      },
+      {
+        "text": "coluna",
+        "start": 7.96
+      },
+      {
+        "text": "na",
+        "start": 8.32
+      },
+      {
+        "text": "vertical",
+        "start": 8.44
+      },
+      {
+        "text": "deve",
+        "start": 9.08
+      },
+      {
+        "text": "ser",
+        "start": 9.28
+      },
+      {
+        "text": "igual",
+        "start": 9.44
+      },
+      {
+        "text": "a",
+        "start": 9.69
+      },
+      {
+        "text": "dez",
+        "start": 9.76
+      }
+    ]
+  },
+  {
+    "kind": "atencao",
+    "scene": 1,
+    "text": "Mas atenção: não podemos repetir números na mesma linha ou coluna. E os números que já estão no quadro devem ficar onde estão. Vamos ver como uma colega resolve?",
+    "start": 10.208333333333334,
+    "end": 18.166666666666668,
+    "speech_end": 7.887541666666667,
+    "events": [
+      {
+        "text": "Mas",
+        "start": 0.03
+      },
+      {
+        "text": "atenção",
+        "start": 0.16
+      },
+      {
+        "text": "não",
+        "start": 0.89
+      },
+      {
+        "text": "podemos",
+        "start": 1.0
+      },
+      {
+        "text": "repetir",
+        "start": 1.3800000000000001
+      },
+      {
+        "text": "números",
+        "start": 1.75
+      },
+      {
+        "text": "na",
+        "start": 2.0999999999999996
+      },
+      {
+        "text": "mesma",
+        "start": 2.1999999999999997
+      },
+      {
+        "text": "linha",
+        "start": 2.4999999999999996
+      },
+      {
+        "text": "ou",
+        "start": 2.9199999999999995
+      },
+      {
+        "text": "coluna",
+        "start": 3.01
+      },
+      {
+        "text": "E",
+        "start": 3.6
+      },
+      {
+        "text": "os",
+        "start": 3.69
+      },
+      {
+        "text": "números",
+        "start": 3.8000000000000003
+      },
+      {
+        "text": "que",
+        "start": 4.13
+      },
+      {
+        "text": "já",
+        "start": 4.21
+      },
+      {
+        "text": "estão",
+        "start": 4.32
+      },
+      {
+        "text": "no",
+        "start": 4.550000000000001
+      },
+      {
+        "text": "quadro",
+        "start": 4.66
+      },
+      {
+        "text": "devem",
+        "start": 5.000000000000001
+      },
+      {
+        "text": "ficar",
+        "start": 5.2700000000000005
+      },
+      {
+        "text": "onde",
+        "start": 5.550000000000001
+      },
+      {
+        "text": "estão",
+        "start": 5.680000000000001
+      },
+      {
+        "text": "Vamos",
+        "start": 6.22
+      },
+      {
+        "text": "ver",
+        "start": 6.54
+      },
+      {
+        "text": "como",
+        "start": 6.720000000000001
+      },
+      {
+        "text": "uma",
+        "start": 6.920000000000001
+      },
+      {
+        "text": "colega",
+        "start": 7.050000000000001
+      },
+      {
+        "text": "resolve",
+        "start": 7.39
+      }
+    ]
+  },
+  {
+    "kind": "zero",
+    "scene": 2,
+    "text": "Vou começar pela coluna que já tem dois números! Sete mais três é igual a dez. Então, qual número falta? Zero! Acrescentar zero não muda a quantidade.",
+    "start": 18.166666666666668,
+    "end": 26.416666666666668,
+    "speech_end": 8.140958333333332,
+    "events": [
+      {
+        "text": "Vou",
+        "start": 0.03
+      },
+      {
+        "text": "começar",
+        "start": 0.19
+      },
+      {
+        "text": "pela",
+        "start": 0.5700000000000001
+      },
+      {
+        "text": "coluna",
+        "start": 0.76
+      },
+      {
+        "text": "que",
+        "start": 1.12
+      },
+      {
+        "text": "já",
+        "start": 1.2
+      },
+      {
+        "text": "tem",
+        "start": 1.32
+      },
+      {
+        "text": "dois",
+        "start": 1.48
+      },
+      {
+        "text": "números",
+        "start": 1.73
+      },
+      {
+        "text": "Sete",
+        "start": 2.38
+      },
+      {
+        "text": "mais",
+        "start": 2.7399999999999998
+      },
+      {
+        "text": "três",
+        "start": 2.9699999999999998
+      },
+      {
+        "text": "é",
+        "start": 3.1599999999999997
+      },
+      {
+        "text": "igual",
+        "start": 3.3299999999999996
+      },
+      {
+        "text": "a",
+        "start": 3.59
+      },
+      {
+        "text": "dez.",
+        "start": 3.6699999999999995
+      },
+      {
+        "text": "Então",
+        "start": 4.28
+      },
+      {
+        "text": "qual",
+        "start": 4.67
+      },
+      {
+        "text": "número",
+        "start": 4.8500000000000005
+      },
+      {
+        "text": "falta",
+        "start": 5.11
+      },
+      {
+        "text": "Zero",
+        "start": 5.74
+      },
+      {
+        "text": "Acrescentar",
+        "start": 6.322
+      },
+      {
+        "text": "zero",
+        "start": 6.861999999999999
+      },
+      {
+        "text": "não",
+        "start": 7.132
+      },
+      {
+        "text": "muda",
+        "start": 7.272
+      },
+      {
+        "text": "a",
+        "start": 7.502
+      },
+      {
+        "text": "quantidade",
+        "start": 7.542000000000001
+      }
+    ]
+  },
+  {
+    "kind": "sete",
+    "scene": 3,
+    "text": "Agora, nesta linha, temos zero mais três. Para chegar a dez, faltam sete! Vou colocar o sete aqui.",
+    "start": 26.416666666666668,
+    "end": 31.75,
+    "speech_end": 5.235083333333334,
+    "events": [
+      {
+        "text": "Agora",
+        "start": 0.03
+      },
+      {
+        "text": "nesta",
+        "start": 0.4
+      },
+      {
+        "text": "linha",
+        "start": 0.64
+      },
+      {
+        "text": "temos",
+        "start": 1.0
+      },
+      {
+        "text": "zero",
+        "start": 1.24
+      },
+      {
+        "text": "mais",
+        "start": 1.45
+      },
+      {
+        "text": "três",
+        "start": 1.65
+      },
+      {
+        "text": "Para",
+        "start": 2.2199999999999998
+      },
+      {
+        "text": "chegar",
+        "start": 2.3699999999999997
+      },
+      {
+        "text": "a",
+        "start": 2.65
+      },
+      {
+        "text": "dez",
+        "start": 2.7199999999999998
+      },
+      {
+        "text": "faltam",
+        "start": 3.1199999999999997
+      },
+      {
+        "text": "sete",
+        "start": 3.45
+      },
+      {
+        "text": "Vou",
+        "start": 4.090000000000001
+      },
+      {
+        "text": "colocar",
+        "start": 4.26
+      },
+      {
+        "text": "o",
+        "start": 4.63
+      },
+      {
+        "text": "sete",
+        "start": 4.680000000000001
+      },
+      {
+        "text": "aqui",
+        "start": 4.95
+      }
+    ]
+  },
+  {
+    "kind": "escolha",
+    "scene": 4,
+    "text": "Aqui já temos sete. Os dois espaços precisam somar três. Vou experimentar um e dois! Vou conferir se eles não repetem nenhum número na mesma linha ou coluna.",
+    "start": 31.75,
+    "end": 39.916666666666664,
+    "speech_end": 8.066708333333333,
+    "events": [
+      {
+        "text": "Aqui",
+        "start": 0.03
+      },
+      {
+        "text": "já",
+        "start": 0.26
+      },
+      {
+        "text": "temos",
+        "start": 0.38
+      },
+      {
+        "text": "sete",
+        "start": 0.6200000000000001
+      },
+      {
+        "text": "Os",
+        "start": 1.2100000000000002
+      },
+      {
+        "text": "dois",
+        "start": 1.34
+      },
+      {
+        "text": "espaços",
+        "start": 1.52
+      },
+      {
+        "text": "precisam",
+        "start": 2.0199999999999996
+      },
+      {
+        "text": "somar",
+        "start": 2.46
+      },
+      {
+        "text": "três",
+        "start": 2.7699999999999996
+      },
+      {
+        "text": "Vou",
+        "start": 3.34
+      },
+      {
+        "text": "experimentar",
+        "start": 3.4899999999999998
+      },
+      {
+        "text": "um",
+        "start": 4.03
+      },
+      {
+        "text": "e",
+        "start": 4.12
+      },
+      {
+        "text": "dois",
+        "start": 4.17
+      },
+      {
+        "text": "Vou",
+        "start": 4.750000000000001
+      },
+      {
+        "text": "conferir",
+        "start": 4.92
+      },
+      {
+        "text": "se",
+        "start": 5.3500000000000005
+      },
+      {
+        "text": "eles",
+        "start": 5.49
+      },
+      {
+        "text": "não",
+        "start": 5.680000000000001
+      },
+      {
+        "text": "repetem",
+        "start": 5.81
+      },
+      {
+        "text": "nenhum",
+        "start": 6.21
+      },
+      {
+        "text": "número",
+        "start": 6.46
+      },
+      {
+        "text": "na",
+        "start": 6.750000000000001
+      },
+      {
+        "text": "mesma",
+        "start": 6.8500000000000005
+      },
+      {
+        "text": "linha",
+        "start": 7.14
+      },
+      {
+        "text": "ou",
+        "start": 7.570000000000001
+      },
+      {
+        "text": "coluna",
+        "start": 7.670000000000001
+      }
+    ]
+  },
+  {
+    "kind": "seis",
+    "scene": 5,
+    "text": "Na coluna do meio, um mais três são quatro. Para chegar a dez, faltam seis!",
+    "start": 39.916666666666664,
+    "end": 43.83333333333333,
+    "speech_end": 3.838625,
+    "events": [
+      {
+        "text": "Na",
+        "start": 0.03
+      },
+      {
+        "text": "coluna",
+        "start": 0.15
+      },
+      {
+        "text": "do",
+        "start": 0.49
+      },
+      {
+        "text": "meio",
+        "start": 0.59
+      },
+      {
+        "text": "um",
+        "start": 0.95
+      },
+      {
+        "text": "mais",
+        "start": 1.02
+      },
+      {
+        "text": "três",
+        "start": 1.23
+      },
+      {
+        "text": "são",
+        "start": 1.47
+      },
+      {
+        "text": "quatro",
+        "start": 1.6300000000000001
+      },
+      {
+        "text": "Para",
+        "start": 2.21
+      },
+      {
+        "text": "chegar",
+        "start": 2.36
+      },
+      {
+        "text": "a",
+        "start": 2.64
+      },
+      {
+        "text": "dez",
+        "start": 2.71
+      },
+      {
+        "text": "faltam",
+        "start": 3.11
+      },
+      {
+        "text": "seis",
+        "start": 3.44
+      }
+    ]
+  },
+  {
+    "kind": "um",
+    "scene": 5,
+    "text": "Na última coluna, dois mais sete são nove. Falta um!",
+    "start": 43.83333333333333,
+    "end": 46.791666666666664,
+    "speech_end": 2.8638749999999997,
+    "events": [
+      {
+        "text": "Na",
+        "start": 0.03
+      },
+      {
+        "text": "última",
+        "start": 0.22
+      },
+      {
+        "text": "coluna",
+        "start": 0.49
+      },
+      {
+        "text": "dois",
+        "start": 0.9100000000000001
+      },
+      {
+        "text": "mais",
+        "start": 1.14
+      },
+      {
+        "text": "sete",
+        "start": 1.34
+      },
+      {
+        "text": "são",
+        "start": 1.59
+      },
+      {
+        "text": "nove",
+        "start": 1.75
+      },
+      {
+        "text": "Falta",
+        "start": 2.3
+      },
+      {
+        "text": "um",
+        "start": 2.6799999999999997
+      }
+    ]
+  },
+  {
+    "kind": "conferir",
+    "scene": 6,
+    "text": "Todas as linhas e colunas somam dez! E nenhuma tem números repetidos. O um aparece duas vezes, mas em linhas e colunas diferentes. Assim pode!",
+    "start": 46.791666666666664,
+    "end": 54.20833333333333,
+    "speech_end": 7.315125,
+    "events": [
+      {
+        "text": "Todas",
+        "start": 0.03
+      },
+      {
+        "text": "as",
+        "start": 0.24000000000000002
+      },
+      {
+        "text": "linhas",
+        "start": 0.41000000000000003
+      },
+      {
+        "text": "e",
+        "start": 0.65
+      },
+      {
+        "text": "colunas",
+        "start": 0.74
+      },
+      {
+        "text": "somam",
+        "start": 1.12
+      },
+      {
+        "text": "dez",
+        "start": 1.39
+      },
+      {
+        "text": "E",
+        "start": 1.95
+      },
+      {
+        "text": "nenhuma",
+        "start": 2.0199999999999996
+      },
+      {
+        "text": "tem",
+        "start": 2.34
+      },
+      {
+        "text": "números",
+        "start": 2.46
+      },
+      {
+        "text": "repetidos",
+        "start": 2.76
+      },
+      {
+        "text": "O",
+        "start": 3.6099999999999994
+      },
+      {
+        "text": "um",
+        "start": 3.6799999999999997
+      },
+      {
+        "text": "aparece",
+        "start": 3.78
+      },
+      {
+        "text": "duas",
+        "start": 4.16
+      },
+      {
+        "text": "vezes",
+        "start": 4.44
+      },
+      {
+        "text": "mas",
+        "start": 4.88
+      },
+      {
+        "text": "em",
+        "start": 4.99
+      },
+      {
+        "text": "linhas",
+        "start": 5.13
+      },
+      {
+        "text": "e",
+        "start": 5.37
+      },
+      {
+        "text": "colunas",
+        "start": 5.47
+      },
+      {
+        "text": "diferentes",
+        "start": 5.840000000000001
+      },
+      {
+        "text": "Assim",
+        "start": 6.65
+      },
+      {
+        "text": "pode",
+        "start": 6.930000000000001
+      }
+    ]
+  },
+  {
+    "kind": "fim",
+    "scene": 7,
+    "text": "Isso mesmo! Comece pela linha ou coluna com mais números preenchidos. Complete, teste e confira. Agora é a sua vez!",
+    "start": 54.20833333333333,
+    "end": 60.62499999999999,
+    "speech_end": 6.330291666666667,
+    "events": [
+      {
+        "text": "Isso",
+        "start": 0.03
+      },
+      {
+        "text": "mesmo",
+        "start": 0.25
+      },
+      {
+        "text": "Comece",
+        "start": 0.84
+      },
+      {
+        "text": "pela",
+        "start": 1.19
+      },
+      {
+        "text": "linha",
+        "start": 1.36
+      },
+      {
+        "text": "ou",
+        "start": 1.76
+      },
+      {
+        "text": "coluna",
+        "start": 1.86
+      },
+      {
+        "text": "com",
+        "start": 2.21
+      },
+      {
+        "text": "mais",
+        "start": 2.3299999999999996
+      },
+      {
+        "text": "números",
+        "start": 2.57
+      },
+      {
+        "text": "preenchidos",
+        "start": 2.88
+      },
+      {
+        "text": "Compléte",
+        "start": 3.7599999999999993
+      },
+      {
+        "text": "teste",
+        "start": 4.42
+      },
+      {
+        "text": "e",
+        "start": 4.680000000000001
+      },
+      {
+        "text": "confira",
+        "start": 4.72
+      },
+      {
+        "text": "Agora",
+        "start": 5.38
+      },
+      {
+        "text": "é",
+        "start": 5.69
+      },
+      {
+        "text": "a",
+        "start": 5.72
+      },
+      {
+        "text": "sua",
+        "start": 5.7700000000000005
+      },
+      {
+        "text": "vez",
+        "start": 5.98
+      }
+    ]
+  }
+]

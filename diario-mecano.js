@@ -1,0 +1,21 @@
+window.ORBITA_PLANETS.push({
+  previewUnlocked: true,
+  id: 'mecano', name: 'Mecano', order: 3, cost: 650,
+  heroImage: 'assets/imagens/diario/mecano/planeta-Mecano.png',
+  intro: 'Um planeta brilhante. Mil perguntas em cada circuito.',
+  description: 'Entre cidades de metal e máquinas pensantes, descubra um mundo cheio de invenções, ideias e discussões sobre o sentido da vida.',
+  cards: [
+    ['planeta-Mecano', 'O planeta Mecano visto do espaço', 'Dois anos-luz depois da dobra do tempo, existe um pequeno planeta chamado Mecano. Ele é um dos astros mais brilhantes do espaço, pois sua superfície é quase toda formada por aço, alumínio e silício. No sistema estelar de Aura Rubre, o planeta Mecano reluz como um gigantesco espelho prateado.'],
+    ['chuva-no-planeta-Mecano', 'Chuva no planeta Mecano', 'No planeta Mecano, as chuvas ocorrem somente uma vez a cada 72 anos e, em vez de serem recebidas com alegria, provocam grande preocupação.'],
+    ['maquinas-enferrujadas', 'Máquinas que se enferrujaram com a última chuva no planeta Mecano', 'Isso acontece porque os habitantes do planeta são máquinas pensantes, construídas com uma grande quantidade de aço. Durante o período chuvoso, elas precisam permanecer protegidas para evitar que seus corpos enferrujem e seus mecanismos sejam danificados.'],
+    ['maquinas-em-duvida', 'Quem terá criado a primeira máquina no planeta Mecano?', 'Entretanto, a chuva não é o maior problema enfrentado pela população. A questão mais grave do planeta Mecano é de natureza política e filosófica: as máquinas não sabem quem as criou — nem com qual finalidade.'],
+    ['ser-humano-construindo-maquina', 'Teoria sobre a origem da vida no planeta Mecano', 'Muitas acreditam que foram criadas por seres orgânicos que desapareceram há trilhões de anos.'],
+    ['maquinas-construindo-maquinas', 'Máquinas construindo máquinas no planeta Mecano', 'Segundo essa teoria, os antigos criadores teriam construído uma máquina capaz de produzir outras máquinas. Estas, por sua vez, teriam fabricado outras máquinas e, assim, inúmeras gerações de máquinas foram se sucedendo até que a lembrança da sua origem se apagou completamente.'],
+    ['maquinas-na-mesma-do-bar', 'Máquinas do planeta Mecano conversando sobre a origem da vida', 'Sem conhecer seus primeiros criadores, as máquinas do planeta Mecano não podem saber por que existem. Muitas defendem que devem continuar construindo novas máquinas, pois essa seria a missão deixada pelos seus criadores. Mas nem todas concordam com isso. Algumas afirmam que cada máquina deveria escolher livremente o sentido da própria existência. Assim, as discussões nas mesas dos bares são intermináveis.'],
+    ['discussao-politica', 'Conflitos políticos no planeta Mecano', 'Essas diferentes ideias dividem a população e provocam discussões e conflitos por todo o planeta.'],
+    ['teoria-do-ovo', 'O ovo de Silício', 'Existe também uma crença bem mais antiga e misteriosa. Um pequeno grupo afirma que toda a vida mecânica surgiu de um enorme Ovo de Silício, abandonado no planeta há trilhões de anos.'],
+    ['maquina-construindo-maquina-da-casca-do-ovo', 'Máquina do ovo de Silício construindo a primeira máquina', 'De acordo com essa tradição, a primeira máquina teria saído desse ovo e seria capaz de acessar a utilidade de todas as coisas. Ela teria revelado a função das máquinas pensantes para a segunda máquina, que ela mesma construiu, usando fragmentos do ovo de silício. Com o tempo, as sucessivas gerações de máquinas se afastaram deste conhecimento primordial que será novamente revelado quando o Ovo Sagrado retornar.'],
+    ['sentido-da-vida', 'Máquinas indagam os visitantes sobre o sentido da vida', 'Por causa dos conflitos filosóficos e políticos, o visitante Órbita que ousou pisar no solo do planeta brilhante quase foi destruído pelas máquinas pensantes, porque ousou expressar uma opinião diferente.'],
+    ['maquinas-atacando', 'Qual é, afinal, o sentido da vida?', 'O fato é que, para o viajante Órbita, no planeta Mecano, assim como na Terra, ninguém sabe dizer, com certeza, se a vida realmente tem sentido.']
+  ].map(([id, caption, text], index) => ({id, caption, text, number: index + 1, cost: index === 0 ? 650 : 500, image: `assets/imagens/diario/mecano/${id}.png`}))
+});

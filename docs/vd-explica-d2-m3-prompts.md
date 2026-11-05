@@ -1,0 +1,9 @@
+# Prompts — vd-explica-d2-m3
+
+Imagens produzidas com o gerador integrado image_gen. Arquivos em assets/imagens/missao-2/desafio-3/geradas.
+
+## Professora
+Create a new single character asset, using the reference ONLY for the female teacher's identity and illustration style. Same smiling welcoming brown-haired teacher with purple glasses, purple cardigan, yellow shirt, gold earrings. Waist-up centered with generous margin, holding TWO clearly visible classroom paddle signs, one in each hand. Viewer left sign purple with a large white +, viewer right sign blue with a large white minus symbol −. Both signs near shoulders with fingers naturally holding the wooden handles. Correct hands. Pale solid blue #F0F7FC background, no other characters, no scenery, no other text. Professional polished children's educational illustration, clean outlines and soft shading, same style as reference.
+
+## Objetos
+Educational math video sprite asset sheet, polished children's book 2D digital illustration, clear outlines soft shading blue purple yellow palette with red apple. TRANSPARENT BACKGROUND. Exactly SIX isolated objects on an evenly spaced 3-column by 2-row grid, one object per cell with generous margins, no overlap. Top row left: ONE red apple with green leaf; top middle: ONE blue toy car side view with yellow details; top right: ONE purple toy teddy bear sitting front view. Bottom row left: ONE yellow wrapped candy with purple twisted ends; bottom middle: ONE collectible rectangular sticker card with a blue border and a single yellow star illustration, NO lettering; bottom right: ONE EMPTY shallow wicker fruit basket, front view, no handle and no fruit inside. No extra objects, no text, no numbers. Every object completely inside its cell, consistent attractive classroom illustration style. These will be individually cropped and repeated in exact counts by a video renderer.

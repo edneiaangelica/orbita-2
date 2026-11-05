@@ -1,0 +1,468 @@
+[
+  {
+    "kind": "intro",
+    "scene": 1,
+    "text": "Olá, turma! Neste desafio, precisamos clicar em três números que, somados, deem exatamente dez. Vamos resolver este primeiro teste juntos?",
+    "start": 0,
+    "end": 7.458333333333333,
+    "speech_end": 7.359125000000001,
+    "events": [
+      {
+        "text": "Olá",
+        "start": 0.03
+      },
+      {
+        "text": "turma",
+        "start": 0.33999999999999997
+      },
+      {
+        "text": "Neste",
+        "start": 0.8999999999999999
+      },
+      {
+        "text": "desafio",
+        "start": 1.18
+      },
+      {
+        "text": "precisamos",
+        "start": 1.8199999999999998
+      },
+      {
+        "text": "clicar",
+        "start": 2.3
+      },
+      {
+        "text": "em",
+        "start": 2.5999999999999996
+      },
+      {
+        "text": "três",
+        "start": 2.71
+      },
+      {
+        "text": "números",
+        "start": 2.9699999999999998
+      },
+      {
+        "text": "que",
+        "start": 3.3000000000000003
+      },
+      {
+        "text": "somados",
+        "start": 3.4099999999999997
+      },
+      {
+        "text": "deem",
+        "start": 4.03
+      },
+      {
+        "text": "exatamente",
+        "start": 4.2700000000000005
+      },
+      {
+        "text": "dez.",
+        "start": 4.81
+      },
+      {
+        "text": "Vamos",
+        "start": 5.38
+      },
+      {
+        "text": "resolver",
+        "start": 5.69
+      },
+      {
+        "text": "este",
+        "start": 6.090000000000001
+      },
+      {
+        "text": "primeiro",
+        "start": 6.26
+      },
+      {
+        "text": "teste",
+        "start": 6.59
+      },
+      {
+        "text": "juntos",
+        "start": 6.88
+      }
+    ]
+  },
+  {
+    "kind": "quatro",
+    "scene": 2,
+    "text": "Vou começar pelo quatro. Quanto falta para chegar a dez? Faltam seis! Vou procurar o seis no quadro.",
+    "start": 7.458333333333333,
+    "end": 12.916666666666666,
+    "speech_end": 5.3494166666666665,
+    "events": [
+      {
+        "text": "Vou",
+        "start": 0.03
+      },
+      {
+        "text": "começar",
+        "start": 0.19
+      },
+      {
+        "text": "pelo",
+        "start": 0.5800000000000001
+      },
+      {
+        "text": "quatro",
+        "start": 0.77
+      },
+      {
+        "text": "Quanto",
+        "start": 1.34
+      },
+      {
+        "text": "falta",
+        "start": 1.58
+      },
+      {
+        "text": "para",
+        "start": 1.9100000000000001
+      },
+      {
+        "text": "chegar",
+        "start": 2.06
+      },
+      {
+        "text": "a",
+        "start": 2.3299999999999996
+      },
+      {
+        "text": "dez",
+        "start": 2.4099999999999997
+      },
+      {
+        "text": "Faltam",
+        "start": 2.98
+      },
+      {
+        "text": "seis",
+        "start": 3.3699999999999997
+      },
+      {
+        "text": "Vou",
+        "start": 3.98
+      },
+      {
+        "text": "procurar",
+        "start": 4.15
+      },
+      {
+        "text": "o",
+        "start": 4.550000000000001
+      },
+      {
+        "text": "seis",
+        "start": 4.6000000000000005
+      },
+      {
+        "text": "no",
+        "start": 4.87
+      },
+      {
+        "text": "quadro",
+        "start": 4.98
+      }
+    ]
+  },
+  {
+    "kind": "seis",
+    "scene": 3,
+    "text": "Quatro mais seis são dez! Mas atenção: escolhi apenas dois números, e o desafio pede três. Qual número posso acrescentar sem mudar o total?",
+    "start": 12.916666666666666,
+    "end": 21.583333333333332,
+    "speech_end": 7.0837916666666665,
+    "events": [
+      {
+        "text": "Quatro",
+        "start": 0.03
+      },
+      {
+        "text": "mais",
+        "start": 0.31999999999999995
+      },
+      {
+        "text": "seis",
+        "start": 0.53
+      },
+      {
+        "text": "são",
+        "start": 0.74
+      },
+      {
+        "text": "dez",
+        "start": 0.9100000000000001
+      },
+      {
+        "text": "Mas",
+        "start": 1.48
+      },
+      {
+        "text": "atenção",
+        "start": 1.5999999999999999
+      },
+      {
+        "text": "escolhi",
+        "start": 2.31
+      },
+      {
+        "text": "apenas",
+        "start": 2.6199999999999997
+      },
+      {
+        "text": "dois",
+        "start": 2.9899999999999998
+      },
+      {
+        "text": "números",
+        "start": 3.21
+      },
+      {
+        "text": "e",
+        "start": 3.6699999999999995
+      },
+      {
+        "text": "o",
+        "start": 3.73
+      },
+      {
+        "text": "desafio",
+        "start": 3.79
+      },
+      {
+        "text": "pede",
+        "start": 4.21
+      },
+      {
+        "text": "três",
+        "start": 4.45
+      },
+      {
+        "text": "Qual",
+        "start": 5.04
+      },
+      {
+        "text": "número",
+        "start": 5.2
+      },
+      {
+        "text": "posso",
+        "start": 5.500000000000001
+      },
+      {
+        "text": "acrescentar",
+        "start": 5.750000000000001
+      },
+      {
+        "text": "sem",
+        "start": 6.2
+      },
+      {
+        "text": "mudar",
+        "start": 6.390000000000001
+      },
+      {
+        "text": "o",
+        "start": 6.66
+      },
+      {
+        "text": "total",
+        "start": 6.71
+      }
+    ]
+  },
+  {
+    "kind": "zero",
+    "scene": 4,
+    "text": "O zero! Somar zero não altera a quantidade. Então, quatro mais seis mais zero são dez. Agora, sim: escolhi três números!",
+    "start": 21.583333333333332,
+    "end": 28.583333333333332,
+    "speech_end": 6.90425,
+    "events": [
+      {
+        "text": "O",
+        "start": 0.03
+      },
+      {
+        "text": "zero",
+        "start": 0.13
+      },
+      {
+        "text": "Somar",
+        "start": 0.71
+      },
+      {
+        "text": "zero",
+        "start": 1.0999999999999999
+      },
+      {
+        "text": "não",
+        "start": 1.39
+      },
+      {
+        "text": "altera",
+        "start": 1.54
+      },
+      {
+        "text": "a",
+        "start": 1.8199999999999998
+      },
+      {
+        "text": "quantidade",
+        "start": 1.86
+      },
+      {
+        "text": "Então",
+        "start": 2.63
+      },
+      {
+        "text": "quatro",
+        "start": 3.03
+      },
+      {
+        "text": "mais",
+        "start": 3.3099999999999996
+      },
+      {
+        "text": "seis",
+        "start": 3.5099999999999993
+      },
+      {
+        "text": "mais",
+        "start": 3.75
+      },
+      {
+        "text": "zero",
+        "start": 3.95
+      },
+      {
+        "text": "são",
+        "start": 4.180000000000001
+      },
+      {
+        "text": "dez.",
+        "start": 4.38
+      },
+      {
+        "text": "Agora",
+        "start": 4.96
+      },
+      {
+        "text": "sim",
+        "start": 5.33
+      },
+      {
+        "text": "escolhi",
+        "start": 5.82
+      },
+      {
+        "text": "três",
+        "start": 6.19
+      },
+      {
+        "text": "números",
+        "start": 6.4399999999999995
+      }
+    ]
+  },
+  {
+    "kind": "fim",
+    "scene": 5,
+    "text": "Agora é a vez de vocês! Observem os números, pensem nas possibilidades e confiram: escolheram três números? A soma deu dez?",
+    "start": 28.583333333333332,
+    "end": 35.5,
+    "speech_end": 6.820125,
+    "events": [
+      {
+        "text": "Agora",
+        "start": 0.03
+      },
+      {
+        "text": "é",
+        "start": 0.35
+      },
+      {
+        "text": "a",
+        "start": 0.4
+      },
+      {
+        "text": "vez",
+        "start": 0.4700000000000001
+      },
+      {
+        "text": "de",
+        "start": 0.65
+      },
+      {
+        "text": "vocês",
+        "start": 0.7200000000000001
+      },
+      {
+        "text": "Observem",
+        "start": 1.43
+      },
+      {
+        "text": "os",
+        "start": 1.98
+      },
+      {
+        "text": "números",
+        "start": 2.09
+      },
+      {
+        "text": "pensem",
+        "start": 2.65
+      },
+      {
+        "text": "nas",
+        "start": 2.96
+      },
+      {
+        "text": "possibilidades",
+        "start": 3.11
+      },
+      {
+        "text": "e",
+        "start": 3.78
+      },
+      {
+        "text": "confiram",
+        "start": 3.88
+      },
+      {
+        "text": "escolheram",
+        "start": 4.57
+      },
+      {
+        "text": "três",
+        "start": 5.050000000000001
+      },
+      {
+        "text": "números",
+        "start": 5.29
+      },
+      {
+        "text": "A",
+        "start": 5.94
+      },
+      {
+        "text": "soma",
+        "start": 6.04
+      },
+      {
+        "text": "deu",
+        "start": 6.28
+      },
+      {
+        "text": "dez",
+        "start": 6.430000000000001
+      }
+    ]
+  }
+]

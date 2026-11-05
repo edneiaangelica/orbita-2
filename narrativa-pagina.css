@@ -1,0 +1,15 @@
+@font-face{font-family:Fredoka;src:url('assets/fontes/fredoka-v17-latin-500.woff2') format('woff2');font-weight:500;font-display:swap}
+*{box-sizing:border-box}
+body{margin:0;min-height:100svh;display:grid;place-items:center;padding:24px;background:#edf6ff url('assets/imagens/design/fundo.png') center/cover no-repeat;color:#14256b;font-family:Fredoka,sans-serif}
+main{width:100%;display:flex;flex-direction:column;align-items:center;gap:22px}
+video{display:block;width:min(100%,1080px,calc((100svh - 140px)*16/9));aspect-ratio:16/9;object-fit:contain;background:#09162f;border:2px solid #ffffffd9;border-radius:22px;box-shadow:0 22px 70px #243e742b}
+video::cue{font-size:clamp(16px,2.4vw,28px);color:white;background:#101e3bf2;font-family:Arial,sans-serif}
+.start{display:flex;align-items:center;justify-content:center;gap:30px;padding:16px 28px;min-height:54px;border-radius:17px;background:linear-gradient(110deg,#4530e4,#6938ef);color:white;text-decoration:none;font-size:19px;font-weight:500;box-shadow:0 6px 0 #b9a9e8,0 12px 26px #4431a921;transition:transform .2s,box-shadow .2s}
+.start:hover{transform:translateY(-2px);box-shadow:0 8px 0 #b9a9e8,0 16px 30px #4431a928}
+.start:focus-visible,video:focus-visible{outline:3px solid #a60083;outline-offset:6px}
+.start span{font-size:24px}
+#video-error{max-width:600px;text-align:center;margin:0;font-family:Arial,sans-serif;font-size:14px;line-height:1.5}
+#video-error a{color:#6b29b5}
+@media(max-width:600px){body{padding:16px}main{gap:20px}video{border-radius:14px}.start{font-size:17px;padding:13px 22px;gap:20px}}
+@media(max-height:500px) and (orientation:landscape){body{padding:12px}main{gap:12px}video{width:min(100%,calc((100svh - 95px)*16/9))}.start{min-height:42px;padding:8px 22px;font-size:16px}}
+@media(prefers-reduced-motion:reduce){.start{transition:none}}

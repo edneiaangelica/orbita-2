@@ -1,0 +1,349 @@
+Questões
+A) Questões:
+Você deve montar uma estrutura para 4 tipos de questões: 
+Arrastar (usada para ordenar números, contar dinheiro) 
+Arrastar tipo 1 (at1): ordenar cartas com números.
+Arrastar tipo 2 (at2): Arrastar dinheiro para pagar, receber ou dar troco
+Clicar na resposta (para perguntas diretas tipo: quem tem mais dinheiro?)
+Digitar resposta (usada em operações)
+Quiz ( com 4 alternativas de resposta)
+Quiz tipo 1 (qt1): Enunciado = texto + imagem, alternativas = texto
+Quiz tipo 2 (qt2): Enunciado = texto, alternativas = imagens
+Quiz tipo 3 (qt3): Enunciado = texto, alternativas = texto
+Quiz tipo 4 (qt4): Enunciado = texto + imagem, alternativas = imagem
+
+3º ANO DO ENSINO FUNDAMENTAL
+
+Missão 1- Os números
+Desafio 1- Leitura e escrita de números
+
+Vídeo-aula: vd-explica-d1-m1
+
+questao-1
+(quiz tipo 1)
+Qual é o número representado na figura? (imagem: d1-m1-q1)
+A) 369
+B) 364
+C) 264
+D) 624
+(GABARITO: B)
+(feedback erro: “TENTE NOVAMENTE! Conte cada tipo de peça separadamente. Há 3 placas de centena, 6 barrinhas de dezena e 4 cubinhos de unidade. Agora, junte essas quantidades para formar o número.”)
+(feedback acerto: “MUITO BEM! Você identificou corretamente as centenas, as dezenas e as unidades!”)
+questao-2
+(quiz tipo 1)
+Qual é o número representado na figura? (imagem: d1-m1-q2)
+A) 348
+B) 458
+C) 484
+D) 448
+(GABARITO: D)
+(feedback erro: “OBSERVE NOVAMENTE! Conte primeiro as placas de centena, depois as barrinhas de dezena e, por último, os cubinhos de unidade. A figura representa 4 centenas, 4 dezenas e 8 unidades.”)
+(feedback acerto: “EXCELENTE! Você contou as peças do material dourado com muita atenção!”)
+questao-3
+(quiz tipo 1)
+Qual é o número representado na figura? (imagem: d1-m1-q3)
+A) 807
+B) 870
+C) 817
+D) 708
+(GABARITO: A)
+(feedback erro: “TENTE MAIS UMA VEZ! A figura tem 8 placas de centena, nenhuma barrinha de dezena e 7 cubinhos de unidade. Lembre-se de colocar o zero na ordem em que não há peças.”)
+(feedback acerto: “ACERTOU! Você percebeu corretamente que o zero ocupa a ordem das dezenas!”)
+questao-4
+(quiz tipo 1)
+Qual é o número representado na figura? (imagem: d1-m1-q4)
+A) 389
+B) 390
+C) 309
+D) 319
+(GABARITO: B)
+(feedback erro: “PRESTE ATENÇÃO! Conte as placas e as barrinhas: são 3 centenas e 9 dezenas. Como não há cubinhos de unidade, o algarismo das unidades deve ser zero.”)
+(feedback acerto: “PARABÉNS! Você reconheceu que a ausência de unidades deve ser representada pelo zero!”)
+questao-5
+(quiz tipo 1)
+Qual é o número representado na figura? (imagem: d1-m1-q5)
+A) 3.432
+B) 2.324
+C) 3.234
+D) 3.243
+(GABARITO: C)
+(feedback erro: “OBSERVE COM CUIDADO! O cubo grande representa a unidade de milhar. Depois, conte as placas, as barrinhas e os cubinhos. A figura mostra 3 unidades de milhar, 2 centenas, 3 dezenas e 4 unidades.”)
+(feedback acerto: “ÓTIMO TRABALHO! Você identificou corretamente todas as ordens do número!”)
+questao-6
+(quiz tipo 1)
+Marque a alternativa em que aparece o número: (imagem: d1-m1-q6) 
+A) 345
+B) 435
+C) 543
+D) 354
+(GABARITO: D)
+(feedback erro: “TENTE NOVAMENTE! O número (número correspondente à opção que o jogador escolheu) é lido assim: (escrever, por extenso, o número correspondente à opção que o jogador escolheu). Observe a ordem indicada no enunciado: 3 centenas, 5 dezenas e 4 unidades.”) Ex: Se o estudante escolheu a letra A, escrever: TENTE NOVAMENTE! O número 345 é lido assim: TREZENTOS E QUARENTA E CINCO. Observe a ordem indicada no enunciado: 3 centenas, 5 dezenas e 4 unidades.)
+(feedback acerto: MUITO BEM! Você relacionou corretamente a escrita por extenso com a escrita em algarismos.)
+questao-7
+(quiz tipo 1)
+Marque a alternativa em que aparece o número: (imagem: d1-m1-q7) 
+A) 1.409
+B) 1.490
+C) 1000.400.9
+D) 1499
+(GABARITO: A)
+(feedback erro: “NÃO É ESSA A RESPOSTA! O número (número correspondente à opção que o jogador escolheu) é lido assim: (escrever, por extenso, o número correspondente à opção que o jogador escolheu). Procure uma alternativa com 1 unidade de milhar, 4 centenas, nenhuma dezena e 9 unidades.”)
+(feedback acerto: “EXCELENTE! Você escreveu corretamente um número que possui zero na ordem das dezenas.”)
+questao-8
+(quiz tipo 1)
+Marque a alternativa em que aparece a forma como se lê o número: (imagem: d1-m1-q8)
+A) TREZENTOS E NOVE
+B) TREZENTOS E NOVENTA
+C) TRÊS MIL E NOVE
+D) TRÊS MIL E NOVENTA
+(GABARITO: C)
+(feedback erro: “OBSERVE NOVAMENTE! O número (número correspondente à opção que o estudante escolheu, escrito por extenso) é (número que corresponde à opção que o estudante escolheu, escrito em algarismos). Na imagem, verifique qual algarismo ocupa a ordem das unidades de milhar e lembre-se de que os zeros também indicam ordens sem quantidade.”)
+(feedback acerto: “RESPOSTA CERTA! Você fez a leitura correta de um número com unidades de milhar!”)
+questao-9
+(quiz tipo 1)
+A seguinte decomposição corresponde ao número: (imagem: d1-m1-q9)
+A) 1.325
+B) 1.235
+C) 1.532
+D) 1.352
+(GABARITO: B)
+(feedback erro: “PENSE MELHOR! O número que você escolheu corresponde a (decomposição do número que corresponde à opção que o estudante escolheu). Compare essa decomposição com a imagem e verifique a quantidade de unidades de milhar, centenas, dezenas e unidades.”) Ex: se o estudante escolheu a letra A, escrever: PENSE MELHOR! O número que você escolheu corresponde a 1 UNIDADE DE MILHAR, 3 CENTENAS, 2 DEZENAS E 5 UNIDADES. Compare essa decomposição com a imagem e verifique cada ordem.)
+(feedback acerto: “VOCÊ CONSEGUIU! A recomposição das unidades de milhar, centenas, dezenas e unidades está correta.”)
+questao-10
+(quiz tipo 1)
+A seguinte decomposição corresponde ao número: (imagem: d1-m1-q10)
+A) 1.390
+B) 1.903
+C) 1.309
+D) 1.930
+(GABARITO: B)
+(feedback erro: “ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a (decomposição do número que corresponde à opção que o estudante escolheu). Observe em quais ordens há zero e não troque a posição das centenas, dezenas e unidades.”) Ex: se o estudante escolheu a letra A, escrever: ANALISE MAIS UMA VEZ! O número que você escolheu corresponde a 1 UNIDADE DE MILHAR, 3 CENTENAS, 9 DEZENAS E 0 UNIDADES. Observe em quais ordens há zero e não troque a posição dos algarismos.)
+(feedback acerto: “PERFEITO! Você recompôs corretamente o número e respeitou a posição ocupada por cada algarismo.”)
+
+Desafio 2 - comparação entre números
+Vídeo-aula: vd-explica-d1-m2
+
+questao-1
+(quiz tipo 3)
+Qual é o sucessor de 399?
+A) 3100
+B) 400
+C) 398
+D) 401
+(GABARITO: B)
+(feedback erro: “TENTE NOVAMENTE! E lembre-se: sucessor é o número que vem depois.”)
+(feedback acerto: “BRILHANTE! Você já sabe encontrar o sucessor!”)
+
+
+questao-2
+(quiz tipo 3)
+Qual é o antecessor de 500?
+A) 501
+B) 400
+C) 499
+D) 490
+(GABARITO: C)
+(feedback erro: “NÃO É ISSO! Lembre-se: antecessor é o número que vem antes.”)
+(feedback acerto: “PARABÉNS! Você já sabe encontrar o antecessor!”)
+
+
+questao-3
+(quiz tipo 3)
+Qual é o número que está entre o 698 e o 700?
+A) 699
+B) 697
+C) 701
+D) 670
+(GABARITO: A)
+(feedback erro: “TENTE NOVAMENTE! Você precisa encontrar o número que vem depois do 698 e antes do 700.”)
+(feedback acerto: “RESPOSTA CERTA! Você brilhou!”)
+
+questao-4
+(arrastar tipo 1)
+Arraste os números abaixo, colocando-os na ordem CRESCENTE correta: 
+1.500, 1.460, 1.399, 1.461.
+(feedback erro: “RESPOSTA ERRADA! Lembre-se: ordem crescente é do menor para o maior.”)
+(feedback acerto: “BRILHANTE! Você já sabe ordenar os números.”)
+
+questao-5
+(arrastar tipo 1)
+Arraste os números abaixo, colocando-os na ordem DECRESCENTE correta: 
+1.950, 978, 1.101, 2.000 
+(feedback erro: “TENTE OUTRA VEZ! E lembre-se: ordem decrescente é do maior para o menor.”)
+(feedback acerto: “RESPOSTA CERTA! Você já sabe ordenar os números.”)
+
+
+questao–6
+(quiz tipo 3)
+Qual é o maior?
+A) 20 DEZENAS (feedback erro: RESPOSTA INCORRETA! 20 dezenas = 200)
+B) 3 CENTENAS (feedback erro: RESPOSTA INCORRETA! 3 centenas = 300)
+C) 1 UNIDADE DE MILHAR (feedback erro: RESPOSTA INCORRETA! 1 unidade de milhar = 1.000)
+D) 20 CENTENAS
+(GABARITO: D)
+(feedback acerto: “RESPOSTA CERTA! 20 centenas é igual a 2.000 que é o maior número entre as alternativas.”)
+
+questao–7
+(quiz tipo 1) 
+Qual é o sinal que completa a expressão abaixo? (imagem: d1-m2-q7)
+A)  >
+B) <
+C) =
+D) %
+(GABARITO: C)
+(feedback erro: “VOCÊ ERROU! Refaça as operações e compare os resultados.”)
+(feedback acerto: “VOCÊ ACERTOU! 5 + 4 = 9 e 3 + 6 também é igual a 9.”)
+
+questao–8
+(questão tipo 1)
+Qual é o sinal que completa a expressão abaixo? (imagem: d1-m2-q8)
+A)  >
+B) <
+C) =
+D) @
+
+(GABARITO: A)
+(feedback erro: “TENTE NOVAMENTE! Você tem que fazer as contas e comparar os resultados”)
+(feedback acerto: “VOCÊ É DEMAIS! 200 é maior do que 100!”)
+
+questao–9
+(quiz tipo 1)
+Qual é o sinal que completa a operação abaixo: (imagem: d1-m2-q9)
+A) %
+B) =
+C) >
+D) <
+(GABARITO: B)
+(feedback erro: “TENTE NOVAMENTE! Você tem que realizar as operações antes de saber se é menor, maior ou igual.”)
+(feedback acerto: “ISSO MESMO! 500 + 500 é igual a 1000, assim como 1.500 - 500!”)
+
+
+questao–10
+(quiz tipo 1)
+Qual é o sinal que completa a operação abaixo: (imagem: d1-m2-q10)
+A) >
+B) <
+C) =
+D) +
+(GABARITO: A)
+(feedback erro: “TENTE NOVAMENTE! 1.500 + 1.500 é menor, maior ou igual a 2.000 - 1.000?”)
+(feedback acerto: “EXCELENTE! 1.500 + 1500 é igual a 3.000, que é maior que 2.000 - 1.000!”)
+
+Desafio 3 - Valor posicional
+Vídeo-aula: vd-explica-d1-m3
+
+questao–1
+(quiz tipo 3)
+No número 6.345, qual é o algarismo que está na casa das dezenas?
+A) 4
+B) 5
+C) 3
+D) 6
+(GABARITO: A)
+(feedback erro: “NÃO É ISSO! Lembre-se do Quadro Posicional! Qual é o número que está na ordem das dezenas?)
+(feedback acerto: “ISSO MESMO! O 4 está na casa das dezenas!”)
+
+questao–2
+(quiz tipo 3)
+No número 1.672, qual é o valor do algarismo 6?
+A) 6
+B) 60
+C) 600
+D) 6.000
+(GABARITO: C)
+(feedback erro: “NÃO É ISSO! Lembre-se que o valor do algarismo depende da posição que ele ocupa no número.)
+(feedback acerto: “MUITO BOM! O 6 vale 600!”)
+
+
+questao–3
+(quiz tipo 3)
+No número 7.180, qual é o valor do algarismo 7?
+A) 7
+B) 70
+C) 700
+D) 7.000
+(GABARITO: D)
+(feedback erro: “NÃO É ISSO! Lembre-se que o valor do algarismo depende da posição que ele ocupa no número.)
+(feedback acerto: “MUITO BOM! O 7 vale 7.000!”)
+
+
+questao–4
+(quiz tipo 3)
+No número 4.521, qual é o algarismo que está na casa das unidades?
+A) 1
+B) 2
+C) 5
+D) 7
+(GABARITO: A)
+(feedback erro: “NÃO É ISSO! Lembre-se que o valor do algarismo depende da posição que ele ocupa no número.”)
+(feedback acerto: “ESSA FOI FÁCIL! Você já sabia que o 1 vale uma unidade!”)
+
+questao–5
+(quiz tipo 3)
+No número 1.381, o 3 representa
+A) 3 UNIDADES
+B) 3 CENTENAS
+C) 3 DEZENAS
+D) 3 UNIDADES DE MILHAR
+(GABARITO: B)
+(feedback erro: “NÃO É ISSO! Observe a posição que o algarismo 3 ocupa no número. Em que casa ele está: unidades, dezenas, centenas ou unidades de milhar?)
+(feedback acerto: “BRILHANTE! O 3 está na casa das centenas!”)
+
+questao–6
+(quiz tipo 3)
+O que vale mais?
+A) 70 UNIDADES
+B) 7 CENTENAS
+C) 70 DEZENAS
+D) 7 UNIDADES DE MILHAR
+(GABARITO: D)
+(feedback erro: “TENTE NOVAMENTE! Descubra, antes, o número que cada opção representa. Ex: 70 DEZENAS = 700)
+(feedback acerto: “ISSO MESMO! Você é demais!”)
+
+
+questao–7
+(quiz tipo 3)
+Qual dos números abaixo tem 0 na casa das centenas?
+A) 1.520
+B) 2.026
+C) 3.602
+D) 7.980
+(GABARITO: B)
+(feedback erro: “NÃO É ISSO! Lembre-se do quadro posicional.” )
+(feedback acerto: “PERFEITO! O zero está na casa das centenas no número 2.026.”)
+
+
+questao–8
+(quiz tipo 3)
+Se eu acrescentar 1 centena ao número 3.846, eu fico com:
+A) 4.846
+B) 3.847
+C) 3.946
+D) 3.856
+(GABARITO: C)
+(feedback erro: “NÃO É ISSO! Tente fazer essa operação no quadro posicional.”)
+(feedback acerto: “VIVA! Você descobriu que 800 + 100 é igual a 900!”)
+
+
+questao–9
+(quiz tipo 3)
+Se eu acrescentar 2 dezenas ao número 5.127, eu fico com:
+A) 7.127
+B) 5.327
+C) 5.147
+D) 5.129
+(GABARITO: C)
+(feedback erro: “NÃO É ISSO! Acrescente duas dezenas apenas na ordem das dezenas.)
+(feedback acerto: “ISSO MESMO! Você é demais!”)
+
+
+questao–10
+(quiz tipo 3)
+Se eu acrescentar 1 centena ao número 6.900, eu fico com:
+A) 7.000
+B) 6.910
+C) 7.900
+D) 6.901
+(GABARITO: A)
+(feedback erro: “NÃO É ISSO! Tente fazer essa operação no quadro posicional.”)
+(feedback acerto: “PARABÉNS! 6.900 + 100 é igual a 7.000!”)

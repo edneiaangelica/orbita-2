@@ -1,0 +1,64 @@
+/* Navegação fixa no rodapé dos celulares. */
+@media(max-width:720px), (max-width:1000px) and (pointer:coarse){
+  :root{--mobile-nav-height:calc(56px + env(safe-area-inset-bottom,0px))}
+  html{scroll-padding-bottom:var(--mobile-nav-height)}
+  body,body.mission-page{padding-bottom:var(--mobile-nav-height)}
+  .home-page .workspace{margin-left:0}
+  .home-page .home-sidebar{display:contents}
+  .home-sidebar>.brand{display:none}
+  .header-nav,.home-sidebar .home-navigation{position:fixed;inset:auto 0 0;z-index:20;display:flex;align-items:center;justify-content:space-around;width:100%;height:var(--mobile-nav-height);margin:0;padding:6px max(4px,env(safe-area-inset-right)) calc(6px + env(safe-area-inset-bottom)) max(4px,env(safe-area-inset-left));gap:2px;border:0;border-top:1px solid #a0006d40;background:#fff8fdf5;backdrop-filter:blur(16px);box-shadow:0 -4px 18px #a0006d12;overflow:visible}
+  .header-nav .menu-icon,.home-sidebar .home-navigation .nav-item{display:flex;align-items:center;justify-content:center;flex:1 1 0;min-width:0;max-width:52px;width:auto;height:42px;min-height:42px;padding:0;margin:0;border-radius:10px;gap:0}
+  .home-navigation .nav-item>span:not([data-icon]){display:none}
+  .header-nav .menu-icon svg,.home-sidebar .home-navigation .nav-item svg{width:22px;height:22px}
+  .home-sidebar .home-navigation .nav-avatar-icon,.header-nav .nav-avatar-icon{width:24px;height:24px}
+  .header-nav .menu-icon:focus-visible,.home-sidebar .nav-item:focus-visible{outline-offset:-3px}
+  .home-topbar .home-controls{display:flex;align-items:center;gap:4px;margin:0;padding:0}
+  .home-topbar{flex-wrap:wrap}
+  .topbar.app-header,.mission-top.app-header{height:56px;min-height:56px;padding:6px 10px;justify-content:space-between}
+  .app-header .header-brand,.topbar.app-header .header-brand{display:flex;position:static}
+  .app-header .header-brand img,.topbar.app-header .header-brand img{width:90px;height:36px}
+  .topbar.app-header .balance{position:static;height:28px;padding:2px 4px}
+  .app-header .toolbar{margin-left:auto;gap:4px}
+  .toast,.mission-page .toast{bottom:calc(var(--mobile-nav-height) + 12px)}
+  .video-stage video{height:calc(100dvh - 280px - var(--mobile-nav-height))}
+}
+
+/* Videoaula horizontal: controles ao lado, sem cobrir o vídeo. */
+@media(orientation:landscape) and (max-height:600px) and (max-width:1100px){
+ body.mission-page:has(#lesson-view:not([hidden])){--lesson-rail:calc(112px + env(safe-area-inset-right,0px));padding:0 var(--lesson-rail) 0 env(safe-area-inset-left,0px);min-height:100dvh;background:#132a4e}
+ .mission-page:has(#lesson-view:not([hidden])) .mission-top.app-header{height:0;min-height:0;padding:0;border:0}
+ .mission-page:has(#lesson-view:not([hidden])) .header-brand,
+ .mission-page:has(#lesson-view:not([hidden])) .mission-banner{display:none}
+ .mission-page:has(#lesson-view:not([hidden])) .mission-shell{padding:0;width:100%;max-width:none}
+ .mission-page:has(#lesson-view:not([hidden])) .header-nav{position:fixed;inset:0 0 0 auto;width:var(--lesson-rail);height:100dvh;display:grid;grid-template-columns:repeat(2,44px);grid-auto-rows:44px;align-content:center;justify-content:center;gap:2px;margin:0;padding:54px env(safe-area-inset-right,0px) 78px 0;border:0;border-left:1px solid #decce0;border-radius:0;background:#fff8fd;box-shadow:none;z-index:20}
+ .mission-page:has(#lesson-view:not([hidden])) .header-nav .menu-icon{width:44px;height:44px;min-height:44px;max-width:none;margin:0;padding:0;display:flex;align-items:center;justify-content:center}
+ .mission-page:has(#lesson-view:not([hidden])) .mission-top.app-header>.toolbar{position:fixed;top:max(5px,env(safe-area-inset-top,0px));right:calc(8px + env(safe-area-inset-right,0px));display:flex;gap:6px;margin:0;z-index:21}
+ .mission-page:has(#lesson-view:not([hidden])) .toolbar .icon-button{width:44px;height:44px;padding:8px}
+ .mission-page #lesson-view:not([hidden]){position:relative;display:flex;flex-direction:column;justify-content:center;height:100dvh;max-width:none;margin:0;padding:8px;border:0;border-radius:0;background:#132a4e;box-shadow:none}
+ .mission-page #lesson-view:not([hidden]) .eyebrow{flex:none;margin:0 0 6px;font-size:12px;line-height:18px;letter-spacing:0;color:#fff}
+ .mission-page #lesson-view:not([hidden]) h2{display:none}
+ .mission-page #lesson-view:not([hidden]) video{flex:1;min-height:0;width:100%;height:calc(100dvh - 40px);max-height:none;margin:0;object-fit:contain;border-radius:8px}
+ .mission-page #lesson-view:not([hidden]) #start-questions{position:fixed;right:calc(6px + env(safe-area-inset-right,0px));bottom:max(8px,env(safe-area-inset-bottom,0px));width:100px;min-height:64px;padding:8px;font-size:12px;line-height:1.35;white-space:normal;z-index:21}
+ .mission-page #lesson-view:not([hidden]) #video-status:not(:empty){color:#fff;font-size:12px;margin:4px 0}
+}
+@media(max-height:520px) and (max-width:720px), (max-height:520px) and (max-width:1000px) and (pointer:coarse){
+  :root{--mobile-nav-height:calc(48px + env(safe-area-inset-bottom,0px))}
+  .header-nav .menu-icon,.home-sidebar .home-navigation .nav-item{height:36px;min-height:36px}
+  .mission-top.app-header{height:36px;min-height:36px;padding-block:0}
+  .video-stage video{height:calc(100dvh - 235px - var(--mobile-nav-height))}
+}
+@media(max-width:720px) and (min-height:521px){
+  .question-body .question-image{max-height:clamp(70px,17dvh,140px)}
+}
+@media(max-height:520px) and (max-width:720px), (max-height:520px) and (max-width:1000px) and (pointer:coarse){
+  .mission-top.app-header{height:0;min-height:0;padding:0;border:0}
+  .mission-top.app-header .header-brand{display:none}
+  .mission-top.app-header>.toolbar{position:absolute;right:10px;top:4px;z-index:2}
+  .mission-page .mission-banner{margin-right:78px}
+  .question-body .question-image{max-height:72px}
+  .question-body .question-heading h2{font-size:13px}
+  .question-body .question-heading{gap:2px}
+  .mission-page .learning-layout{margin-top:2px;gap:2px}
+  .mission-page .question-footer{margin-top:2px;padding-top:2px}
+}
+

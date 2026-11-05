@@ -1,0 +1,14 @@
+[
+ ["abertura",1,"Olá, pessoal! Hoje, vamos aprender uma estratégia para fazer continhas de mais com resultados até 20!"],
+ ["dedos",2,"Já sabemos usar os dedos para somar. Para resolver quatro mais três, levantamos quatro dedos de uma mão e três da outra. Contamos todos:"],
+ ["conta7",2,"um, dois, três, quatro, cinco, seis, sete!"],
+ ["desafio",3,"Mas e quando o resultado passa de dez? Será que os dedos ainda podem ajudar? Sim! Vamos guardar um número na cabeça e continuar a contagem!"],
+ ["oito",4,"Vamos resolver oito mais cinco. Primeiro, guardamos o oito na cabeça."],
+ ["cinco",5,"Depois, levantamos cinco dedos para representar a quantidade que vamos acrescentar."],
+ ["continua",6,"O oito já está guardado. Então, começamos pelo número seguinte e contamos mais um para cada dedo:"],
+ ["conta5",6,"nove… dez… onze… doze… treze!"],
+ ["resultado",7,"Chegamos ao treze! Portanto, oito mais cinco é igual a treze!"],
+ ["relembra",8,"Atenção: não contamos o oito novamente! Começamos no nove, porque cada dedo acrescenta uma unidade ao número que guardamos."],
+ ["sua_vez",9,"Agora é a sua vez! Guarde o nove na cabeça e acrescente quatro, usando os dedos. Quanto deu?"],
+ ["resposta",9,"Treze! Muito bem! Até a próxima aula!"]
+]

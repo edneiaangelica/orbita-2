@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 340" role="img" aria-label="Teleco batendo palmas">
+<defs><linearGradient id="shell" x2=".8" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#b9d6f1"/></linearGradient><linearGradient id="blue" x2="1" y2="1"><stop stop-color="#00cfff"/><stop offset="1" stop-color="#1250c3"/></linearGradient></defs>
+<style>.left{transform-origin:110px 235px;animation:left .55s ease-in-out infinite alternate}.right{transform-origin:250px 235px;animation:right .55s ease-in-out infinite alternate}.spark{animation:flash .55s ease-in-out infinite alternate}@keyframes left{to{transform:translateX(12px) rotate(-8deg)}}@keyframes right{to{transform:translateX(-12px) rotate(8deg)}}@keyframes flash{to{opacity:0}}@media(prefers-reduced-motion:reduce){.left,.right,.spark{animation:none}}</style>
+<ellipse cx="180" cy="325" rx="90" ry="10" fill="#19386b" opacity=".1"/>
+<path d="M147 277l-10 32m76-32 10 32" stroke="#1250c3" stroke-width="25"/><path d="M137 302l-18 14h40v-12m64-2 18 14h-40v-12" fill="url(#shell)" stroke="#3783d2" stroke-width="4"/>
+<rect x="122" y="195" width="116" height="100" rx="42" fill="url(#shell)" stroke="#c5def4" stroke-width="3"/>
+<ellipse cx="180" cy="249" rx="28" ry="24" fill="#19386b"/><ellipse cx="180" cy="249" rx="38" ry="10" fill="none" stroke="#9d2bd6" stroke-width="7" transform="rotate(-25 180 249)"/>
+<path d="M190 63l6-31" stroke="#145dc8" stroke-width="10"/><circle cx="198" cy="25" r="14" fill="url(#blue)"/>
+<rect x="62" y="106" width="35" height="69" rx="17" fill="url(#blue)"/><rect x="263" y="106" width="35" height="69" rx="17" fill="url(#blue)"/>
+<rect x="78" y="58" width="204" height="155" rx="66" fill="url(#shell)" stroke="#e5f3ff" stroke-width="5"/>
+<rect x="97" y="83" width="166" height="110" rx="42" fill="#09274b" stroke="#8ca4bf" stroke-width="4"/>
+<path d="M121 133q17-31 34 0m51 0q17-31 34 0M157 155q23 27 46 0" fill="none" stroke="#00d4f3" stroke-width="10" stroke-linecap="round"/>
+<g class="left"><path d="M117 230q-35 24-10 43l50-28" fill="none" stroke="#1764ce" stroke-width="26"/><path d="M111 261l38-26" stroke="url(#shell)" stroke-width="31" stroke-linecap="round"/><g transform="translate(156 228) rotate(-28)"><rect x="-17" y="-29" width="31" height="48" rx="13" fill="url(#shell)" stroke="#a8c2df" stroke-width="2"/><path d="M-9-22v19m8-21v21m8-18v18" stroke="#a8c2df" stroke-width="2"/></g></g>
+<g class="right"><path d="M243 230q35 24 10 43l-50-28" fill="none" stroke="#1764ce" stroke-width="26"/><path d="M249 261l-38-26" stroke="url(#shell)" stroke-width="31" stroke-linecap="round"/><g transform="translate(204 228) rotate(28)"><rect x="-14" y="-29" width="31" height="48" rx="13" fill="url(#shell)" stroke="#a8c2df" stroke-width="2"/><path d="M-7-22v19m8-21v21m8-18v18" stroke="#a8c2df" stroke-width="2"/></g></g>
+<g class="spark" stroke="#f5b72f" stroke-width="5" stroke-linecap="round"><path d="M180 204v-10m-12 13-6-7m30 7 6-7"/></g>
+</svg>
